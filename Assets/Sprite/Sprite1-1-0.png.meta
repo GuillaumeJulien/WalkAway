@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 1f27460ee6092ca4b8d6c6f30d577dde
-timeCreated: 1464687753
+guid: 7fb8c96a4d54fa240bc5e5e4681c374e
+timeCreated: 1464699806
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -8,9 +8,16 @@ TextureImporter:
     21300002: 4-layers
     21300004: aventureButton
     21300006: background
-    21300008: icon-email
-    21300010: icon-mdp
-    21300012: icon-position
+    21300008: carnet-de-bord
+    21300010: detection-in
+    21300012: detection
+    21300014: icon-email
+    21300016: icon-mdp
+    21300018: icon-position
+    21300020: radar
+    21300022: reglage
+    21300024: viseur-a-animer-02
+    21300026: voix-emma
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -61,7 +68,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1
-        y: 428
+        y: 105
         width: 310
         height: 283
       alignment: 0
@@ -140,7 +147,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1
-        y: 341
+        y: 18
         width: 526
         height: 85
       alignment: 0
@@ -166,7 +173,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1
-        y: 341
+        y: 18
         width: 526
         height: 85
       alignment: 0
@@ -203,6 +210,64 @@ TextureImporter:
         - {x: -1001.5, y: -667}
         - {x: 1001.5, y: -667}
         - {x: 1001.5, y: 667}
+    - name: carnet-de-bord
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 192
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 32}
+        - {x: -24, y: -32}
+        - {x: 24, y: -32}
+        - {x: 24, y: 29}
+        - {x: 21, y: 32}
+      - - {x: -18, y: 26}
+        - {x: -19, y: 13}
+        - {x: -16, y: 10}
+        - {x: -4, y: 6}
+    - name: detection-in
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 131
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 29.5}
+        - {x: -29.5, y: 16.5}
+        - {x: -29.5, y: -19.5}
+        - {x: -20.5, y: -29.5}
+        - {x: 15.5, y: -29.5}
+        - {x: 29.5, y: -19.5}
+        - {x: 29.5, y: 17.5}
+        - {x: 18.5, y: 29.5}
+    - name: detection
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 131
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 29.5}
+        - {x: -29.5, y: 16.5}
+        - {x: -29.5, y: -19.5}
+        - {x: -20.5, y: -29.5}
+        - {x: 15.5, y: -29.5}
+        - {x: 29.5, y: -19.5}
+        - {x: 29.5, y: 17.5}
+        - {x: 18.5, y: 29.5}
     - name: icon-email
       rect:
         serializedVersion: 2
@@ -232,6 +297,110 @@ TextureImporter:
         y: 1991
         width: 27
         height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: radar
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 324
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 32}
+        - {x: -22, y: 29}
+        - {x: -32, y: 17}
+        - {x: -32, y: -16}
+        - {x: -23, y: -32}
+        - {x: 16, y: -32}
+        - {x: 32, y: -22}
+        - {x: 32, y: 22}
+        - {x: 16, y: 32}
+    - name: reglage
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 258
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 32}
+        - {x: -32, y: 29}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 29}
+        - {x: 27, y: 32}
+      - - {x: -1, y: -19}
+        - {x: -14, y: 8}
+        - {x: -1, y: 22}
+        - {x: 19, y: 1}
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 13}
+        - {x: 9, y: 16}
+    - name: viseur-a-animer-02
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 390
+        width: 329
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -127.5, y: 1.5}
+        - {x: -164.5, y: 1.5}
+        - {x: -164.5, y: -50.5}
+        - {x: -145.5, y: -114.5}
+        - {x: -70.5, y: -159.5}
+        - {x: -56.5, y: -160.5}
+        - {x: 46.5, y: -160.5}
+        - {x: 53.5, y: -156.5}
+        - {x: 53.5, y: -149.5}
+        - {x: 50.5, y: -142.5}
+      - - {x: 152.5, y: -4.5}
+        - {x: 149.5, y: -8.5}
+        - {x: 65.5, y: -134.5}
+        - {x: 65.5, y: -150.5}
+        - {x: 85.5, y: -150.5}
+        - {x: 152.5, y: -108.5}
+        - {x: 163.5, y: -61.5}
+        - {x: 164.5, y: -51.5}
+        - {x: 164.5, y: -4.5}
+      - - {x: 83.5, y: 127.5}
+        - {x: -64.5, y: 127.5}
+        - {x: -125.5, y: 58.5}
+        - {x: -125.5, y: -104.5}
+        - {x: -56.5, y: -130.5}
+        - {x: 94.5, y: -130.5}
+        - {x: 131.5, y: -60.5}
+        - {x: 131.5, y: 77.5}
+      - - {x: -94.5, y: -64.5}
+        - {x: -95.5, y: 57.5}
+      - - {x: -109.5, y: 160.5}
+        - {x: -133.5, y: 96.5}
+        - {x: -133.5, y: 66.5}
+        - {x: 60.5, y: 23.5}
+        - {x: 161.5, y: 23.5}
+        - {x: 161.5, y: 75.5}
+        - {x: 120.5, y: 160.5}
+    - name: voix-emma
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 13
+        width: 730
+        height: 3
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}

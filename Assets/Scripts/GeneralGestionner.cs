@@ -17,10 +17,14 @@ public class GeneralGestionner : MonoBehaviour {
             Application.Quit();
         }
     }
-    public void LoadScene(string scene)
+    public void LoadSceneAndClean(string scene)
     {
         activeScene = SceneManager.GetActiveScene();
         SceneManager.UnloadScene(activeScene.name);
+        SceneManager.LoadScene(scene);
+    }
+    public void LoadScene(string scene)
+    {
         SceneManager.LoadScene(scene);
     }
 }

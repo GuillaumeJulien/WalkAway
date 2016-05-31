@@ -4,10 +4,10 @@
 # To import these sprites into your Unity project, download "TexturePackerImporter":
 # http://www.codeandweb.com/texturepacker/unity
 #
-# $TexturePacker:SmartUpdate:28fb525a9b02debf449f5db656eb5476:5ef646f81aa4e2510b6fbe082cc9cefc:65eccf04e747b0d62d49c37c35846733$
+# $TexturePacker:SmartUpdate:b825b4c9db2a22ac1a0e15e0408a02b8:ff047ac7451bdf4b6c3ffab58b096321:53d4d292fe884a3549471ec1dcbfdc02$
 #
 :format=40000
-:texture=background-2-1.png
+:texture=Sprite1-1-1.png
 :size=2048x2048
 :pivotpoints=enabled
 
