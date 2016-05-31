@@ -3,8 +3,6 @@ using System.Collections;
 
 public class Background : MonoBehaviour
 {
-    public RectTransform myRectTrans;
-    public float movementScale;
     // Use this for initialization
     void Start()
     {
@@ -15,7 +13,6 @@ public class Background : MonoBehaviour
 
     void Update()
     {
-    
-
+        
     }
 }
