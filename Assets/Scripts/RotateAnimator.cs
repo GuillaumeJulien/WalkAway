@@ -5,13 +5,25 @@ public class RotateAnimator : MonoBehaviour
 {
     protected Transform pTransform;
     protected int pSensRotate;
+    private bool isIdle;
+
     /// <summary>
     /// Change le sens de rotation
     /// </summary>
     /// 
     public virtual void ToggleRotate()
     {
-        pSensRotate = -pSensRotate;
+        if (isIdle)
+        {
+            pSensRotate = -pSensRotate / 45;
+            isIdle = false;
+        }
+        else
+        {
+            pSensRotate = -pSensRotate * 45;
+           
+            isIdle = true;
+        }
     }
 
     /// <summary>
