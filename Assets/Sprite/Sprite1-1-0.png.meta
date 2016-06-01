@@ -18,6 +18,7 @@ TextureImporter:
     21300022: reglage
     21300024: viseur-a-animer-02
     21300026: voix-emma
+    21300028: fondAnalize
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -146,8 +147,8 @@ TextureImporter:
     - name: 4-layers
       rect:
         serializedVersion: 2
-        x: 1
-        y: 18
+        x: 313
+        y: 303
         width: 526
         height: 85
       alignment: 0
@@ -172,8 +173,8 @@ TextureImporter:
     - name: aventureButton
       rect:
         serializedVersion: 2
-        x: 1
-        y: 18
+        x: 313
+        y: 303
         width: 526
         height: 85
       alignment: 0
@@ -214,7 +215,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 313
-        y: 192
+        y: 105
         width: 48
         height: 64
       alignment: 0
@@ -233,8 +234,8 @@ TextureImporter:
     - name: detection-in
       rect:
         serializedVersion: 2
-        x: 313
-        y: 131
+        x: 363
+        y: 110
         width: 59
         height: 59
       alignment: 0
@@ -252,8 +253,8 @@ TextureImporter:
     - name: detection
       rect:
         serializedVersion: 2
-        x: 313
-        y: 131
+        x: 363
+        y: 110
         width: 59
         height: 59
       alignment: 0
@@ -268,6 +269,30 @@ TextureImporter:
         - {x: 29.5, y: -19.5}
         - {x: 29.5, y: 17.5}
         - {x: 18.5, y: 29.5}
+    - name: fondAnalize
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 4
+        width: 418
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -180, y: 49.5}
+        - {x: -182, y: 47.5}
+        - {x: -182, y: 46.5}
+        - {x: -188, y: 40.5}
+        - {x: -188, y: 39.5}
+        - {x: -194, y: 33.5}
+        - {x: -194, y: 32.5}
+        - {x: -200, y: 26.5}
+        - {x: -200, y: 25.5}
+        - {x: -209, y: 16.5}
+        - {x: -209, y: -49.5}
+        - {x: 209, y: -49.5}
+        - {x: 209, y: 49.5}
     - name: icon-email
       rect:
         serializedVersion: 2
@@ -305,7 +330,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 313
-        y: 324
+        y: 237
         width: 64
         height: 64
       alignment: 0
@@ -325,7 +350,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 313
-        y: 258
+        y: 171
         width: 64
         height: 64
       alignment: 0
@@ -397,8 +422,8 @@ TextureImporter:
     - name: voix-emma
       rect:
         serializedVersion: 2
-        x: 1
-        y: 13
+        x: 363
+        y: 105
         width: 730
         height: 3
       alignment: 0

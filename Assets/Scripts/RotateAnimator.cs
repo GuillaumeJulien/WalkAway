@@ -6,6 +6,12 @@ public class RotateAnimator : MonoBehaviour
     protected Transform pTransform;
     protected int pSensRotate;
     private bool isIdle;
+    public int idle;
+    public int SensRotate
+    {
+        get { return pSensRotate; }
+        set { pSensRotate = value; }
+    }
 
     /// <summary>
     /// Change le sens de rotation
@@ -13,17 +19,25 @@ public class RotateAnimator : MonoBehaviour
     /// 
     public virtual void ToggleRotate()
     {
-        if (isIdle)
-        {
-            pSensRotate = -pSensRotate / 45;
-            isIdle = false;
-        }
-        else
-        {
-            pSensRotate = -pSensRotate * 45;
-           
-            isIdle = true;
-        }
+            if (isIdle)
+            {
+                pSensRotate = -pSensRotate / 45;
+                isIdle = false;
+            }
+            else
+            {
+                pSensRotate = -pSensRotate * 45;
+
+                isIdle = true;
+            }
+       
+    }
+    /// <summary>
+    /// Arrête la rotation 
+    /// </summary>
+    public virtual void StopRotate()
+    {
+        pSensRotate = 0;
     }
 
     /// <summary>

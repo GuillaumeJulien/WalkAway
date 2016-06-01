@@ -3,8 +3,24 @@ using System.Collections;
 
 public class ObjetRa : MonoBehaviour {
     public string textDescription;
-    private bool mAnalizing;
-    private bool mAnalized;
+    private bool mIsAnalized;
+    private bool mIsAnalizing;
+
+    public bool IsAnalizing
+    {
+        get { return mIsAnalizing; }
+        set { mIsAnalizing = value; }
+    }
+
+    public bool IsAnalized
+    {
+        get { return mIsAnalized; }
+        set { mIsAnalized = value; }
+    }
+    public string TextDescription
+    {
+        get { return textDescription; }
+    }
 
     // Use this for initialization
     void Start () {
@@ -15,14 +31,6 @@ public class ObjetRa : MonoBehaviour {
 	void Update () {
 	
 	}
+    
 
-    public string GetDescription()
-    {
-        return textDescription;
-    }
-
-    public bool IsAnalized()
-    {
-        return mAnalized;
-    }
 }

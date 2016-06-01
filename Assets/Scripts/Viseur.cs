@@ -8,7 +8,7 @@ public class Viseur : RotateAnimator
 
 	// Use this for initialization
 	void Start () {
-        pSensRotate = -15;
+        idle = -15;
         pTransform = transform;
     }
 	
