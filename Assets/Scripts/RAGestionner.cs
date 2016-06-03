@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using System.Collections;
+using UnityEngine;
 using UnityEngine.UI;
 
 public class RAGestionner : MonoBehaviour {
@@ -29,30 +30,9 @@ public class RAGestionner : MonoBehaviour {
 	void Update () {
         if (mpressure)
         {
-            Debug.Log(mPressureTime);
-            //mTextInfo.text = analizingText;
-            mPressureTime += 1;
-            Debug.Log(mPressureTime);
-            if (mPressureTime > 50)
-            {
-                mObjetRa.IsAnalized = true;
-                mTextInfo.text = mObjetRa.TextDescription;
-                mViseur.StopRotate();
-            }            
-            else
-            {
-                mObjetRa.IsAnalizing = true;
-            }
-            
+            mObjetRa.IsAnalizing = true;
+            StartCoroutine(AnlizeObject());
         }
-        else
-        {
-            if (mPressureTime > 0)
-            {
-                mPressureTime -= 1;
-            }
-        }
-        mBackgroundInfo.fillAmount = (float)mPressureTime / 50;
     }
     void OnMouseDown()
     {
@@ -65,6 +45,13 @@ public class RAGestionner : MonoBehaviour {
     {
         mViseur.ToggleRotate();
         mpressure = false;
+    }
+    IEnumerator AnlizeObject()
+    {
+        yield return new WaitForSeconds(2);
+        mViseur.StopRotate();
+        mObjetRa.IsAnalized = true;
+        
     }
 
 }
