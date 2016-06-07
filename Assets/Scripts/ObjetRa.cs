@@ -2,6 +2,7 @@
 using System.Collections;
 
 public class ObjetRa : MonoBehaviour {
+    [TextArea(3, 10)]
     public string textDescription;
     private bool mIsAnalized;
     private bool mIsAnalizing;
