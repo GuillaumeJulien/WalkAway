@@ -1,0 +1,5653 @@
+fileFormatVersion: 2
+guid: 2cf03faa450c1a44582d3ee782faa0af
+timeCreated: 1465810260
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: radar000
+    21300002: radar001
+    21300004: radar002
+    21300006: radar003
+    21300008: radar004
+    21300010: radar005
+    21300012: radar006
+    21300014: radar007
+    21300016: radar008
+    21300018: radar009
+    21300020: radar010
+    21300022: radar011
+    21300024: radar012
+    21300026: radar013
+    21300028: radar014
+    21300030: radar015
+    21300032: radar016
+    21300034: radar017
+    21300036: radar018
+    21300038: radar019
+    21300040: radar020
+    21300042: radar021
+    21300044: radar022
+    21300046: radar023
+    21300048: radar024
+    21300050: radar025
+    21300052: radar026
+    21300054: radar027
+    21300056: radar028
+    21300058: radar029
+    21300060: radar030
+    21300062: radar031
+    21300064: radar032
+    21300066: radar033
+    21300068: radar034
+    21300070: radar035
+    21300072: radar036
+    21300074: radar037
+    21300076: radar038
+    21300078: radar039
+    21300080: radar040
+    21300082: radar041
+    21300084: radar042
+    21300086: radar043
+    21300088: radar044
+    21300090: radar045
+    21300092: radar046
+    21300094: radar047
+    21300096: radar048
+    21300098: radar049
+    21300100: radar050
+    21300102: radar051
+    21300104: radar052
+    21300106: radar053
+    21300108: radar054
+    21300110: radar055
+    21300112: radar056
+    21300114: radar057
+    21300116: radar058
+    21300118: radar059
+    21300120: radar060
+    21300122: radar061
+    21300124: radar062
+    21300126: radar063
+    21300128: radar064
+    21300130: radar065
+    21300132: radar066
+    21300134: radar067
+    21300136: radar068
+    21300138: radar069
+    21300140: radar070
+    21300142: radar071
+    21300144: radar072
+    21300146: radar073
+    21300148: radar074
+    21300150: radar075
+    21300152: radar076
+    21300154: radar077
+    21300156: radar078
+    21300158: radar079
+    21300160: radar080
+    21300162: radar081
+    21300164: radar082
+    21300166: radar083
+    21300168: radar084
+    21300170: radar085
+    21300172: radar086
+    21300174: radar087
+    21300176: radar088
+    21300178: radar089
+    21300180: radar090
+    21300182: radar091
+    21300184: radar092
+    21300186: radar093
+    21300188: radar094
+    21300190: radar095
+    21300192: radar096
+    21300194: radar097
+    21300196: radar098
+    21300198: radar099
+    21300200: radar100
+    21300202: radar101
+    21300204: radar102
+    21300206: radar103
+    21300208: radar104
+    21300210: radar105
+    21300212: radar106
+    21300214: radar107
+    21300216: radar108
+    21300218: radar109
+    21300220: radar110
+    21300222: radar111
+    21300224: radar112
+    21300226: radar113
+    21300228: radar114
+    21300230: radar115
+    21300232: radar116
+    21300234: radar117
+    21300236: radar118
+    21300238: radar119
+    21300240: radar120
+    21300242: radar121
+    21300244: radar122
+    21300246: radar123
+    21300248: radar124
+    21300250: radar125
+    21300252: radar126
+    21300254: radar127
+    21300256: radar128
+    21300258: radar129
+    21300260: radar130
+    21300262: radar131
+    21300264: radar132
+    21300266: radar133
+    21300268: radar134
+    21300270: radar135
+    21300272: radar136
+    21300274: radar137
+    21300276: radar138
+    21300278: radar139
+    21300280: radar140
+    21300282: radar141
+    21300284: radar142
+    21300286: radar143
+    21300288: radar144
+    21300290: radar145
+    21300292: radar146
+    21300294: radar147
+    21300296: radar148
+    21300298: radar149
+    21300300: radar150
+    21300302: radar151
+    21300304: radar152
+    21300306: radar153
+    21300308: radar154
+    21300310: radar155
+    21300312: radar156
+    21300314: radar157
+    21300316: radar158
+    21300318: radar159
+    21300320: radar160
+    21300322: radar161
+    21300324: radar162
+    21300326: radar163
+    21300328: radar164
+    21300330: radar165
+    21300332: radar166
+    21300334: radar167
+    21300336: radar168
+    21300338: radar169
+    21300340: radar170
+    21300342: radar171
+    21300344: radar172
+    21300346: radar173
+    21300348: radar174
+    21300350: radar175
+    21300352: radar176
+    21300354: radar177
+    21300356: radar178
+    21300358: radar179
+    21300360: radar180
+    21300362: radar181
+    21300364: radar182
+    21300366: radar183
+    21300368: radar184
+    21300370: radar185
+    21300372: radar186
+    21300374: radar187
+    21300376: radar188
+    21300378: radar189
+    21300380: radar190
+    21300382: radar191
+    21300384: radar192
+    21300386: radar193
+    21300388: radar194
+    21300390: radar195
+    21300392: radar196
+    21300394: radar197
+    21300396: radar198
+    21300398: radar199
+    21300400: radar200
+    21300402: radar201
+    21300404: radar202
+    21300406: radar203
+    21300408: radar204
+    21300410: radar205
+    21300412: radar206
+    21300414: radar207
+    21300416: radar208
+    21300418: radar209
+    21300420: radar210
+    21300422: radar211
+    21300424: radar212
+    21300426: radar213
+    21300428: radar214
+    21300430: radar215
+    21300432: radar216
+    21300434: radar217
+    21300436: radar218
+    21300438: radar219
+    21300440: radar220
+    21300442: radar221
+    21300444: radar222
+    21300446: radar223
+    21300448: radar224
+    21300450: radar225
+    21300452: radar226
+    21300454: radar227
+    21300456: radar228
+    21300458: radar229
+    21300460: radar230
+    21300462: radar231
+    21300464: radar232
+    21300466: radar233
+    21300468: radar234
+    21300470: radar235
+    21300472: radar236
+    21300474: radar237
+    21300476: radar238
+    21300478: radar239
+    21300480: radar240
+    21300482: radar241
+    21300484: radar242
+    21300486: radar243
+    21300488: radar244
+    21300490: radar245
+    21300492: radar246
+    21300494: radar247
+    21300496: radar248
+    21300498: radar249
+    21300500: radar250
+    21300502: radar251
+    21300504: radar252
+    21300506: radar253
+    21300508: radar254
+    21300510: radar255
+    21300512: radar256
+    21300514: radar257
+    21300516: radar258
+    21300518: radar259
+    21300520: radar260
+    21300522: radar261
+    21300524: radar262
+    21300526: radar263
+    21300528: radar264
+    21300530: radar265
+    21300532: radar266
+    21300534: radar267
+    21300536: radar268
+    21300538: radar269
+    21300540: radar270
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: radar000
+      rect:
+        serializedVersion: 2
+        x: 8187
+        y: 16372
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 375, y: -666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: radar001
+      rect:
+        serializedVersion: 2
+        x: 8187
+        y: 16380
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 1.6666666, y: -19.333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: radar002
+      rect:
+        serializedVersion: 2
+        x: 8187
+        y: 16375
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 1.6666666, y: -19.333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: radar003
+      rect:
+        serializedVersion: 2
+        x: 2245
+        y: 14106
+        width: 9
+        height: 9
+      alignment: 9
+      pivot: {x: 1.1111112, y: -5.888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: radar004
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 14854
+        width: 5
+        height: 5
+      alignment: 9
+      pivot: {x: 1.2, y: -11.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: radar005
+      rect:
+        serializedVersion: 2
+        x: 7511
+        y: 15490
+        width: 7
+        height: 7
+      alignment: 9
+      pivot: {x: 1, y: -8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: radar006
+      rect:
+        serializedVersion: 2
+        x: 2233
+        y: 13351
+        width: 9
+        height: 9
+      alignment: 9
+      pivot: {x: 0.8888889, y: -6.111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: radar007
+      rect:
+        serializedVersion: 2
+        x: 7491
+        y: 15468
+        width: 18
+        height: 29
+      alignment: 9
+      pivot: {x: 0.7222222, y: -1.7586207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: radar008
+      rect:
+        serializedVersion: 2
+        x: 2990
+        y: 14066
+        width: 17
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5882353, y: -1.3157895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: radar009
+      rect:
+        serializedVersion: 2
+        x: 7491
+        y: 15522
+        width: 22
+        height: 40
+      alignment: 9
+      pivot: {x: 0.54545456, y: -1.175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: radar010
+      rect:
+        serializedVersion: 2
+        x: 7491
+        y: 15448
+        width: 18
+        height: 18
+      alignment: 9
+      pivot: {x: 0.7222222, y: -2.8333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: radar011
+      rect:
+        serializedVersion: 2
+        x: 7491
+        y: 15499
+        width: 21
+        height: 21
+      alignment: 9
+      pivot: {x: 0.6666667, y: -2.3333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: radar012
+      rect:
+        serializedVersion: 2
+        x: 7491
+        y: 15564
+        width: 25
+        height: 25
+      alignment: 9
+      pivot: {x: 0.64, y: -1.88}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: radar013
+      rect:
+        serializedVersion: 2
+        x: 7491
+        y: 15591
+        width: 27
+        height: 28
+      alignment: 9
+      pivot: {x: 0.6296296, y: -1.6428572}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: radar014
+      rect:
+        serializedVersion: 2
+        x: 8158
+        y: 12874
+        width: 31
+        height: 31
+      alignment: 9
+      pivot: {x: 0.61290324, y: -1.4193548}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: radar015
+      rect:
+        serializedVersion: 2
+        x: 5207
+        y: 13346
+        width: 35
+        height: 35
+      alignment: 9
+      pivot: {x: 0.6, y: -1.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: radar016
+      rect:
+        serializedVersion: 2
+        x: 7386
+        y: 12477
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.575, y: -1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: radar017
+      rect:
+        serializedVersion: 2
+        x: 7386
+        y: 12519
+        width: 45
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5777778, y: -0.82222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: radar018
+      rect:
+        serializedVersion: 2
+        x: 7386
+        y: 12566
+        width: 49
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5714286, y: -0.71428573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: radar019
+      rect:
+        serializedVersion: 2
+        x: 7386
+        y: 12617
+        width: 54
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5555556, y: -0.58181816}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: radar020
+      rect:
+        serializedVersion: 2
+        x: 5884
+        y: 11904
+        width: 67
+        height: 69
+      alignment: 9
+      pivot: {x: 0.6119403, y: -0.3768116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: radar021
+      rect:
+        serializedVersion: 2
+        x: 5094
+        y: 11303
+        width: 65
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5538462, y: -0.41538462}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: radar022
+      rect:
+        serializedVersion: 2
+        x: 5094
+        y: 11370
+        width: 85
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5058824, y: -0.12790698}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: radar023
+      rect:
+        serializedVersion: 2
+        x: 5094
+        y: 11458
+        width: 97
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5463917, y: -0.094736844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: radar024
+      rect:
+        serializedVersion: 2
+        x: 5094
+        y: 11652
+        width: 104
+        height: 107
+      alignment: 9
+      pivot: {x: 0.53846157, y: -0.056074765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: radar025
+      rect:
+        serializedVersion: 2
+        x: 5094
+        y: 11555
+        width: 102
+        height: 95
+      alignment: 9
+      pivot: {x: 0.54901963, y: -0.1368421}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: radar026
+      rect:
+        serializedVersion: 2
+        x: 5094
+        y: 11761
+        width: 106
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4811321, y: -0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: radar027
+      rect:
+        serializedVersion: 2
+        x: 5094
+        y: 11863
+        width: 109
+        height: 112
+      alignment: 9
+      pivot: {x: 0.49541286, y: -0.04464286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: radar028
+      rect:
+        serializedVersion: 2
+        x: 8065
+        y: 12062
+        width: 122
+        height: 128
+      alignment: 9
+      pivot: {x: 0.48360655, y: 0.0546875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: radar029
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 12478
+        width: 131
+        height: 129
+      alignment: 9
+      pivot: {x: 0.52671754, y: 0.046511628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: radar030
+      rect:
+        serializedVersion: 2
+        x: 8038
+        y: 10765
+        width: 139
+        height: 128
+      alignment: 9
+      pivot: {x: 0.51079136, y: 0.0546875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: radar031
+      rect:
+        serializedVersion: 2
+        x: 8038
+        y: 10895
+        width: 146
+        height: 146
+      alignment: 9
+      pivot: {x: 0.53424656, y: 0.09589041}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: radar032
+      rect:
+        serializedVersion: 2
+        x: 8038
+        y: 11198
+        width: 153
+        height: 147
+      alignment: 9
+      pivot: {x: 0.53594774, y: 0.10204082}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: radar033
+      rect:
+        serializedVersion: 2
+        x: 8038
+        y: 11043
+        width: 151
+        height: 153
+      alignment: 9
+      pivot: {x: 0.51655626, y: 0.11111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: radar034
+      rect:
+        serializedVersion: 2
+        x: 8038
+        y: 11347
+        width: 153
+        height: 163
+      alignment: 9
+      pivot: {x: 0.52287585, y: 0.11042945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: radar035
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 11572
+        width: 160
+        height: 169
+      alignment: 9
+      pivot: {x: 0.51875, y: 0.147929}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: radar036
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 11743
+        width: 180
+        height: 178
+      alignment: 9
+      pivot: {x: 0.51666665, y: 0.1741573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: radar037
+      rect:
+        serializedVersion: 2
+        x: 4888
+        y: 10270
+        width: 185
+        height: 187
+      alignment: 9
+      pivot: {x: 0.4918919, y: 0.19786096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: radar038
+      rect:
+        serializedVersion: 2
+        x: 4888
+        y: 10459
+        width: 204
+        height: 188
+      alignment: 9
+      pivot: {x: 0.53431374, y: 0.17553191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: radar039
+      rect:
+        serializedVersion: 2
+        x: 4675
+        y: 9807
+        width: 208
+        height: 201
+      alignment: 9
+      pivot: {x: 0.5048077, y: 0.21393035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: radar040
+      rect:
+        serializedVersion: 2
+        x: 4267
+        y: 8224
+        width: 218
+        height: 211
+      alignment: 9
+      pivot: {x: 0.51834863, y: 0.22274882}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: radar041
+      rect:
+        serializedVersion: 2
+        x: 5436
+        y: 9853
+        width: 223
+        height: 220
+      alignment: 9
+      pivot: {x: 0.50672644, y: 0.23181818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: radar042
+      rect:
+        serializedVersion: 2
+        x: 2629
+        y: 11052
+        width: 224
+        height: 228
+      alignment: 9
+      pivot: {x: 0.5223214, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: radar043
+      rect:
+        serializedVersion: 2
+        x: 7311
+        y: 6475
+        width: 241
+        height: 233
+      alignment: 9
+      pivot: {x: 0.5103735, y: 0.2360515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: radar044
+      rect:
+        serializedVersion: 2
+        x: 6576
+        y: 6224
+        width: 239
+        height: 249
+      alignment: 9
+      pivot: {x: 0.51882845, y: 0.26104417}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: radar045
+      rect:
+        serializedVersion: 2
+        x: 6056
+        y: 6611
+        width: 258
+        height: 257
+      alignment: 9
+      pivot: {x: 0.5116279, y: 0.27626458}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.875, y: 24.0625}
+        - {x: -16.875, y: 22.0625}
+        - {x: -16.875, y: -2.9375}
+        - {x: -12.875, y: -8.9375}
+        - {x: 13.125, y: -8.9375}
+        - {x: 16.125, y: -0.9375}
+        - {x: 16.125, y: 21.0625}
+        - {x: 12.125, y: 24.0625}
+    - name: radar046
+      rect:
+        serializedVersion: 2
+        x: 6775
+        y: 6742
+        width: 266
+        height: 265
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2792453}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.625, y: 25.0625}
+        - {x: -16.625, y: 17.0625}
+        - {x: -16.625, y: -2.9375}
+        - {x: -11.625, y: -8.9375}
+        - {x: 15.375, y: -8.9375}
+        - {x: 18.375, y: 2.0625}
+        - {x: 18.375, y: 23.0625}
+        - {x: 13.375, y: 25.0625}
+    - name: radar047
+      rect:
+        serializedVersion: 2
+        x: 6231
+        y: 6870
+        width: 270
+        height: 278
+      alignment: 9
+      pivot: {x: 0.5222222, y: 0.28417265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.375, y: 26.25}
+        - {x: -16.375, y: 18.25}
+        - {x: -17.375, y: 12.25}
+        - {x: -17.375, y: 1.25}
+        - {x: -11.375, y: -9.75}
+        - {x: 12.625, y: -9.75}
+        - {x: 17.625, y: -2.75}
+        - {x: 17.625, y: 23.25}
+        - {x: 9.625, y: 26.25}
+    - name: radar048
+      rect:
+        serializedVersion: 2
+        x: 6888
+        y: 7671
+        width: 287
+        height: 278
+      alignment: 9
+      pivot: {x: 0.5087108, y: 0.2877698}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.3125, y: 26.25}
+        - {x: -18.3125, y: 22.25}
+        - {x: -18.3125, y: -2.75}
+        - {x: -14.3125, y: -9.75}
+        - {x: 10.6875, y: -9.75}
+        - {x: 17.6875, y: -0.75}
+        - {x: 17.6875, y: 18.25}
+        - {x: 8.6875, y: 26.25}
+    - name: radar049
+      rect:
+        serializedVersion: 2
+        x: 2561
+        y: 10301
+        width: 291
+        height: 289
+      alignment: 9
+      pivot: {x: 0.5017182, y: 0.28719723}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.4375, y: 26.8125}
+        - {x: -18.4375, y: 18.8125}
+        - {x: -18.4375, y: -9.1875}
+        - {x: -17.4375, y: -10.1875}
+        - {x: 13.5625, y: -10.1875}
+        - {x: 18.5625, y: -8.1875}
+        - {x: 18.5625, y: 22.8125}
+        - {x: 16.5625, y: 26.8125}
+    - name: radar050
+      rect:
+        serializedVersion: 2
+        x: 4887
+        y: 6996
+        width: 297
+        height: 293
+      alignment: 9
+      pivot: {x: 0.5016835, y: 0.3003413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.1875, y: 26.8125}
+        - {x: -18.1875, y: 19.8125}
+        - {x: -18.1875, y: -4.1875}
+        - {x: -10.1875, y: -11.1875}
+        - {x: 10.8125, y: -11.1875}
+        - {x: 19.8125, y: -5.1875}
+        - {x: 19.8125, y: 20.8125}
+        - {x: 13.8125, y: 26.8125}
+    - name: radar051
+      rect:
+        serializedVersion: 2
+        x: 7867
+        y: 6779
+        width: 308
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5032467, y: 0.30645162}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.25, y: 27.875}
+        - {x: -19.25, y: 19.875}
+        - {x: -19.25, y: -5.125}
+        - {x: -16.25, y: -12.125}
+        - {x: 18.75, y: -12.125}
+        - {x: 19.75, y: -10.125}
+        - {x: 19.75, y: 18.875}
+        - {x: 16.75, y: 27.875}
+    - name: radar052
+      rect:
+        serializedVersion: 2
+        x: 4978
+        y: 7291
+        width: 325
+        height: 316
+      alignment: 9
+      pivot: {x: 0.4953846, y: 0.30379745}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.0625, y: 28.125}
+        - {x: -20.0625, y: -10.875}
+        - {x: -19.0625, y: -11.875}
+        - {x: 16.9375, y: -11.875}
+        - {x: 20.9375, y: -5.875}
+        - {x: 20.9375, y: 17.125}
+        - {x: 16.9375, y: 28.125}
+    - name: radar053
+      rect:
+        serializedVersion: 2
+        x: 2498
+        y: 8637
+        width: 328
+        height: 325
+      alignment: 9
+      pivot: {x: 0.5030488, y: 0.32307693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.875, y: 28.8125}
+        - {x: -20.875, y: 23.8125}
+        - {x: -20.875, y: -8.1875}
+        - {x: -10.875, y: -13.1875}
+        - {x: 12.125, y: -13.1875}
+        - {x: 21.125, y: -3.1875}
+        - {x: 21.125, y: 26.8125}
+        - {x: 15.125, y: 28.8125}
+    - name: radar054
+      rect:
+        serializedVersion: 2
+        x: 6328
+        y: 10235
+        width: 331
+        height: 334
+      alignment: 9
+      pivot: {x: 0.51057404, y: 0.3233533}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.4375, y: 29.25}
+        - {x: -21.4375, y: 21.25}
+        - {x: -21.4375, y: -13.75}
+        - {x: 20.5625, y: -13.75}
+        - {x: 20.5625, y: 24.25}
+        - {x: 17.5625, y: 29.25}
+    - name: radar055
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 9655
+        width: 341
+        height: 353
+      alignment: 9
+      pivot: {x: 0.49853373, y: 0.3371105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.1875, y: 30.5625}
+        - {x: -21.1875, y: 20.5625}
+        - {x: -21.1875, y: -7.4375}
+        - {x: -19.1875, y: -14.4375}
+        - {x: 15.8125, y: -14.4375}
+        - {x: 21.8125, y: -6.4375}
+        - {x: 21.8125, y: 21.5625}
+        - {x: 15.8125, y: 30.5625}
+    - name: radar056
+      rect:
+        serializedVersion: 2
+        x: 6328
+        y: 10933
+        width: 354
+        height: 360
+      alignment: 9
+      pivot: {x: 0.5169492, y: 0.33888888}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.25, y: 30.875}
+        - {x: -22.25, y: 25.875}
+        - {x: -23.25, y: 21.875}
+        - {x: -23.25, y: -8.125}
+        - {x: -16.25, y: -15.125}
+        - {x: 11.75, y: -15.125}
+        - {x: 21.75, y: -11.125}
+        - {x: 21.75, y: 28.875}
+        - {x: 14.75, y: 30.875}
+    - name: radar057
+      rect:
+        serializedVersion: 2
+        x: 7815
+        y: 9680
+        width: 368
+        height: 366
+      alignment: 9
+      pivot: {x: 0.51086956, y: 0.33606556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.875, y: 30.5}
+        - {x: -11.125, y: 30.5}
+        - {x: -13.125, y: 29.5}
+        - {x: -23.125, y: 21.5}
+        - {x: -23.125, y: -4.5}
+        - {x: -21.125, y: -11.5}
+        - {x: -11.125, y: -15.5}
+        - {x: 13.875, y: -15.5}
+        - {x: 15.875, y: -14.5}
+        - {x: 23.875, y: -4.5}
+        - {x: 23.875, y: 21.5}
+    - name: radar058
+      rect:
+        serializedVersion: 2
+        x: 7486
+        y: 6710
+        width: 379
+        height: 379
+      alignment: 9
+      pivot: {x: 0.5039578, y: 0.34300792}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.0625, y: 32.6875}
+        - {x: -17.9375, y: 32.6875}
+        - {x: -23.9375, y: 31.6875}
+        - {x: -23.9375, y: -2.3125}
+        - {x: -17.9375, y: -14.3125}
+        - {x: -6.9375, y: -16.3125}
+        - {x: 14.0625, y: -16.3125}
+        - {x: 22.0625, y: -10.3125}
+        - {x: 25.0625, y: 1.6875}
+        - {x: 25.0625, y: 26.6875}
+    - name: radar059
+      rect:
+        serializedVersion: 2
+        x: 6716
+        y: 7009
+        width: 383
+        height: 380
+      alignment: 9
+      pivot: {x: 0.5143603, y: 0.3394737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.6875, y: 31.75}
+        - {x: -24.6875, y: 28.75}
+        - {x: -24.6875, y: -6.25}
+        - {x: -13.6875, y: -16.25}
+        - {x: 21.3125, y: -16.25}
+        - {x: 24.3125, y: -5.25}
+        - {x: 24.3125, y: 28.75}
+        - {x: 22.3125, y: 31.75}
+    - name: radar060
+      rect:
+        serializedVersion: 2
+        x: 7177
+        y: 7140
+        width: 391
+        height: 396
+      alignment: 9
+      pivot: {x: 0.49872124, y: 0.34848484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.3125, y: 33}
+        - {x: -24.3125, y: 25}
+        - {x: -24.3125, y: -7}
+        - {x: -21.3125, y: -17}
+        - {x: 21.6875, y: -17}
+        - {x: 24.6875, y: -12}
+        - {x: 24.6875, y: 21}
+        - {x: 20.6875, y: 33}
+    - name: radar061
+      rect:
+        serializedVersion: 2
+        x: 7785
+        y: 9277
+        width: 406
+        height: 401
+      alignment: 9
+      pivot: {x: 0.50246304, y: 0.35162094}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 33.5625}
+        - {x: -25.5, y: 28.5625}
+        - {x: -25.5, y: -8.4375}
+        - {x: -22.5, y: -17.4375}
+        - {x: 22.5, y: -17.4375}
+        - {x: 25.5, y: -13.4375}
+        - {x: 25.5, y: 28.5625}
+        - {x: 20.5, y: 33.5625}
+    - name: radar062
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 7377
+        width: 415
+        height: 414
+      alignment: 9
+      pivot: {x: 0.5036145, y: 0.35507247}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.1875, y: -18.375}
+        - {x: 15.8125, y: -18.375}
+        - {x: 26.8125, y: -13.375}
+        - {x: 26.8125, y: 30.625}
+        - {x: 24.8125, y: 33.625}
+        - {x: -15.1875, y: 33.625}
+        - {x: -26.1875, y: 29.625}
+        - {x: -26.1875, y: -11.375}
+    - name: radar063
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 7787
+        width: 420
+        height: 424
+      alignment: 9
+      pivot: {x: 0.50476193, y: 0.3561321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 35}
+        - {x: -11.5, y: 35}
+        - {x: -26.5, y: 30}
+        - {x: -26.5, y: -8}
+        - {x: -13.5, y: -19}
+        - {x: 15.5, y: -19}
+        - {x: 27.5, y: -5}
+        - {x: 27.5, y: 23}
+        - {x: 25.5, y: 28}
+    - name: radar064
+      rect:
+        serializedVersion: 2
+        x: 7754
+        y: 8439
+        width: 432
+        height: 433
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35796767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.25, y: 36.0625}
+        - {x: -27.25, y: 30.0625}
+        - {x: -27.25, y: -18.9375}
+        - {x: 27.75, y: -18.9375}
+        - {x: 27.75, y: 28.0625}
+        - {x: 20.75, y: 36.0625}
+    - name: radar065
+      rect:
+        serializedVersion: 2
+        x: 6212
+        y: 9459
+        width: 442
+        height: 438
+      alignment: 9
+      pivot: {x: 0.49773756, y: 0.369863}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.375, y: 35.5}
+        - {x: -27.375, y: 24.5}
+        - {x: -27.375, y: -13.5}
+        - {x: -22.375, y: -20.5}
+        - {x: 15.625, y: -20.5}
+        - {x: 28.625, y: -16.5}
+        - {x: 28.625, y: 22.5}
+        - {x: 15.625, y: 35.5}
+    - name: radar066
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 8360
+        width: 455
+        height: 447
+      alignment: 9
+      pivot: {x: 0.50109893, y: 0.3691275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.6875, y: 35.3125}
+        - {x: -25.3125, y: 35.3125}
+        - {x: -28.3125, y: 26.3125}
+        - {x: -28.3125, y: -11.6875}
+        - {x: -19.3125, y: -20.6875}
+        - {x: 16.6875, y: -20.6875}
+        - {x: 27.6875, y: -10.6875}
+        - {x: 29.6875, y: -5.6875}
+        - {x: 29.6875, y: 20.3125}
+    - name: radar067
+      rect:
+        serializedVersion: 2
+        x: 7734
+        y: 7975
+        width: 456
+        height: 462
+      alignment: 9
+      pivot: {x: 0.50877196, y: 0.37445888}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.75, y: 37.625}
+        - {x: -28.75, y: 34.625}
+        - {x: -28.75, y: -5.375}
+        - {x: -16.75, y: -21.375}
+        - {x: 16.25, y: -21.375}
+        - {x: 29.25, y: -8.375}
+        - {x: 29.25, y: 31.625}
+        - {x: 19.25, y: 37.625}
+    - name: radar068
+      rect:
+        serializedVersion: 2
+        x: 6185
+        y: 8549
+        width: 465
+        height: 468
+      alignment: 9
+      pivot: {x: 0.5075269, y: 0.37393162}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.1875, y: 38}
+        - {x: -15.8125, y: 38}
+        - {x: -29.8125, y: 23}
+        - {x: -29.8125, y: -13}
+        - {x: -10.8125, y: -22}
+        - {x: 15.1875, y: -22}
+        - {x: 29.1875, y: -12}
+        - {x: 29.1875, y: 20}
+        - {x: 27.1875, y: 25}
+    - name: radar069
+      rect:
+        serializedVersion: 2
+        x: 5025
+        y: 8464
+        width: 485
+        height: 479
+      alignment: 9
+      pivot: {x: 0.5051546, y: 0.37787056}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.6875, y: 37.3125}
+        - {x: -30.6875, y: 35.3125}
+        - {x: -30.6875, y: -22.6875}
+        - {x: 30.3125, y: -22.6875}
+        - {x: 30.3125, y: 25.3125}
+        - {x: 18.3125, y: 37.3125}
+    - name: radar070
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 8021
+        width: 482
+        height: 485
+      alignment: 9
+      pivot: {x: 0.5062241, y: 0.37525773}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.125, y: 39.1875}
+        - {x: -24.875, y: 39.1875}
+        - {x: -30.875, y: 24.1875}
+        - {x: -30.875, y: -12.8125}
+        - {x: -22.875, y: -22.8125}
+        - {x: 23.125, y: -22.8125}
+        - {x: 30.125, y: -10.8125}
+        - {x: 30.125, y: 31.1875}
+    - name: radar071
+      rect:
+        serializedVersion: 2
+        x: 7693
+        y: 7473
+        width: 492
+        height: 500
+      alignment: 9
+      pivot: {x: 0.50609756, y: 0.376}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.75, y: 39.375}
+        - {x: -23.25, y: 39.375}
+        - {x: -31.25, y: 27.375}
+        - {x: -31.25, y: -16.625}
+        - {x: -20.25, y: -23.625}
+        - {x: 23.75, y: -23.625}
+        - {x: 30.75, y: -10.625}
+        - {x: 31.75, y: -7.625}
+        - {x: 31.75, y: 34.375}
+    - name: radar072
+      rect:
+        serializedVersion: 2
+        x: 2849
+        y: 8890
+        width: 507
+        height: 510
+      alignment: 9
+      pivot: {x: 0.5009862, y: 0.38627452}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.9375, y: 39.5}
+        - {x: -31.9375, y: 24.5}
+        - {x: -31.9375, y: -12.5}
+        - {x: -29.9375, y: -14.5}
+        - {x: -15.9375, y: -24.5}
+        - {x: 16.0625, y: -24.5}
+        - {x: 32.0625, y: -18.5}
+        - {x: 32.0625, y: 26.5}
+        - {x: 18.0625, y: 39.5}
+    - name: radar073
+      rect:
+        serializedVersion: 2
+        x: 7178
+        y: 7538
+        width: 513
+        height: 514
+      alignment: 9
+      pivot: {x: 0.50097466, y: 0.38715953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.3125, y: 40}
+        - {x: -32.3125, y: 29}
+        - {x: -32.3125, y: -15}
+        - {x: -20.3125, y: -25}
+        - {x: 17.6875, y: -25}
+        - {x: 32.6875, y: -18}
+        - {x: 32.6875, y: 37}
+        - {x: 18.6875, y: 40}
+    - name: radar074
+      rect:
+        serializedVersion: 2
+        x: 4675
+        y: 8995
+        width: 524
+        height: 524
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.38358778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.375, y: 41}
+        - {x: -31.375, y: 31}
+        - {x: -32.375, y: 29}
+        - {x: -32.375, y: -14}
+        - {x: -17.375, y: -25}
+        - {x: 19.625, y: -25}
+        - {x: 33.625, y: -8}
+        - {x: 33.625, y: 23}
+        - {x: 22.625, y: 41}
+    - name: radar075
+      rect:
+        serializedVersion: 2
+        x: 7201
+        y: 8054
+        width: 531
+        height: 543
+      alignment: 9
+      pivot: {x: 0.49717513, y: 0.3922652}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.8125, y: 42.5625}
+        - {x: -20.1875, y: 42.5625}
+        - {x: -33.1875, y: 34.5625}
+        - {x: -33.1875, y: -19.4375}
+        - {x: -17.1875, y: -26.4375}
+        - {x: 27.8125, y: -26.4375}
+        - {x: 33.8125, y: -7.4375}
+        - {x: 33.8125, y: 29.5625}
+        - {x: 26.8125, y: 38.5625}
+    - name: radar076
+      rect:
+        serializedVersion: 2
+        x: 5663
+        y: 9588
+        width: 547
+        height: 545
+      alignment: 9
+      pivot: {x: 0.49725777, y: 0.39449543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.9375, y: 42.1875}
+        - {x: -33.9375, y: -20.8125}
+        - {x: -31.9375, y: -26.8125}
+        - {x: 17.0625, y: -26.8125}
+        - {x: 36.0625, y: -10.8125}
+        - {x: 36.0625, y: 30.1875}
+        - {x: 33.0625, y: 42.1875}
+    - name: radar077
+      rect:
+        serializedVersion: 2
+        x: 4888
+        y: 9521
+        width: 546
+        height: 552
+      alignment: 9
+      pivot: {x: 0.50549453, y: 0.39311594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.125, y: 42.5}
+        - {x: -31.875, y: 42.5}
+        - {x: -34.875, y: 41.5}
+        - {x: -34.875, y: -27.5}
+        - {x: 31.125, y: -27.5}
+        - {x: 34.125, y: -16.5}
+        - {x: 34.125, y: 32.5}
+        - {x: 22.125, y: 40.5}
+    - name: radar078
+      rect:
+        serializedVersion: 2
+        x: 7253
+        y: 9707
+        width: 560
+        height: 559
+      alignment: 9
+      pivot: {x: 0.5017857, y: 0.39892665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 42.9375}
+        - {x: -20, y: 42.9375}
+        - {x: -35, y: 24.9375}
+        - {x: -35, y: -12.0625}
+        - {x: -34, y: -16.0625}
+        - {x: -17, y: -26.0625}
+        - {x: -10, y: -28.0625}
+        - {x: 17, y: -28.0625}
+        - {x: 35, y: -18.0625}
+        - {x: 36, y: -10.0625}
+        - {x: 36, y: 28.9375}
+    - name: radar079
+      rect:
+        serializedVersion: 2
+        x: 5094
+        y: 10075
+        width: 567
+        height: 569
+      alignment: 9
+      pivot: {x: 0.49559084, y: 0.39367312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.9375, y: 43.9375}
+        - {x: -34.9375, y: -14.0625}
+        - {x: -18.9375, y: -28.0625}
+        - {x: 18.0625, y: -28.0625}
+        - {x: 36.0625, y: -21.0625}
+        - {x: 37.0625, y: -17.0625}
+        - {x: 37.0625, y: 37.9375}
+        - {x: 36.0625, y: 43.9375}
+    - name: radar080
+      rect:
+        serializedVersion: 2
+        x: 5745
+        y: 10715
+        width: 581
+        height: 578
+      alignment: 9
+      pivot: {x: 0.5008606, y: 0.3979239}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.4375, y: 44.25}
+        - {x: -36.4375, y: 42.25}
+        - {x: -36.4375, y: -8.75}
+        - {x: -19.4375, y: -28.75}
+        - {x: 20.5625, y: -28.75}
+        - {x: 36.5625, y: -17.75}
+        - {x: 36.5625, y: 44.25}
+    - name: radar081
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 8228
+        width: 587
+        height: 585
+      alignment: 9
+      pivot: {x: 0.5025554, y: 0.4051282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.9375, y: 44.4375}
+        - {x: -23.0625, y: 44.4375}
+        - {x: -37.0625, y: 33.4375}
+        - {x: -37.0625, y: -29.5625}
+        - {x: 36.9375, y: -29.5625}
+        - {x: 36.9375, y: 32.4375}
+        - {x: 22.9375, y: 43.4375}
+      - - {x: -1.0625, y: 5.4375}
+        - {x: 1.9375, y: 6.4375}
+        - {x: 1.9375, y: 9.4375}
+        - {x: -1.0625, y: 10.4375}
+        - {x: -3.0625, y: 8.4375}
+    - name: radar082
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 8815
+        width: 591
+        height: 595
+      alignment: 9
+      pivot: {x: 0.49746192, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.9375, y: 46.3125}
+        - {x: -18.0625, y: 46.3125}
+        - {x: -37.0625, y: 30.3125}
+        - {x: -37.0625, y: -24.6875}
+        - {x: -20.0625, y: -29.6875}
+        - {x: 26.9375, y: -29.6875}
+        - {x: 34.9375, y: -17.6875}
+        - {x: 37.9375, y: -8.6875}
+        - {x: 37.9375, y: 28.3125}
+      - - {x: -3.0625, y: 7.3125}
+        - {x: -1.0625, y: 5.3125}
+        - {x: 1.9375, y: 6.3125}
+        - {x: 1.9375, y: 9.3125}
+        - {x: -0.0625, y: 11.3125}
+        - {x: -3.0625, y: 10.3125}
+    - name: radar083
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 9412
+        width: 608
+        height: 606
+      alignment: 9
+      pivot: {x: 0.49506578, y: 0.4009901}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.375, y: 46.5}
+        - {x: -33.375, y: 45.5}
+        - {x: -37.375, y: 38.5}
+        - {x: -37.375, y: -16.5}
+        - {x: -28.375, y: -30.5}
+        - {x: 19.625, y: -30.5}
+        - {x: 39.625, y: -21.5}
+        - {x: 39.625, y: 39.5}
+        - {x: 30.625, y: 46.5}
+      - - {x: -2.375, y: 8.5}
+        - {x: -1.375, y: 5.5}
+        - {x: 1.625, y: 5.5}
+        - {x: 3.625, y: 7.5}
+        - {x: 2.625, y: 10.5}
+        - {x: -0.375, y: 10.5}
+    - name: radar084
+      rect:
+        serializedVersion: 2
+        x: 2854
+        y: 9402
+        width: 612
+        height: 609
+      alignment: 9
+      pivot: {x: 0.503268, y: 0.4039409}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: 46.0625}
+        - {x: -38.5, y: -30.9375}
+        - {x: 31.5, y: -30.9375}
+        - {x: 39.5, y: -14.9375}
+        - {x: 39.5, y: 39.0625}
+        - {x: 32.5, y: 46.0625}
+      - - {x: -2.5, y: 8.0625}
+        - {x: -1.5, y: 5.0625}
+        - {x: 1.5, y: 5.0625}
+        - {x: 3.5, y: 7.0625}
+        - {x: 2.5, y: 10.0625}
+        - {x: -0.5, y: 10.0625}
+    - name: radar085
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 10009
+        width: 621
+        height: 613
+      alignment: 9
+      pivot: {x: 0.50080514, y: 0.4045677}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.0625, y: 45.9375}
+        - {x: -30.9375, y: 45.9375}
+        - {x: -38.9375, y: 30.9375}
+        - {x: -38.9375, y: -24.0625}
+        - {x: -19.9375, y: -31.0625}
+        - {x: 30.0625, y: -31.0625}
+        - {x: 39.0625, y: -21.0625}
+        - {x: 39.0625, y: 24.9375}
+        - {x: 31.0625, y: 43.9375}
+      - - {x: -0.9375, y: 10.9375}
+        - {x: -2.9375, y: 8.9375}
+        - {x: -2.9375, y: 6.9375}
+        - {x: -0.9375, y: 4.9375}
+        - {x: 1.0625, y: 4.9375}
+        - {x: 3.0625, y: 6.9375}
+        - {x: 3.0625, y: 7.9375}
+        - {x: 0.0625, y: 10.9375}
+    - name: radar086
+      rect:
+        serializedVersion: 2
+        x: 2855
+        y: 10013
+        width: 624
+        height: 627
+      alignment: 9
+      pivot: {x: 0.49839744, y: 0.40669855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 47.4375}
+        - {x: -38.5, y: 29.4375}
+        - {x: -38.5, y: -13.5625}
+        - {x: -16.5, y: -31.5625}
+        - {x: 23.5, y: -31.5625}
+        - {x: 40.5, y: -13.5625}
+        - {x: 40.5, y: 39.4375}
+        - {x: 38.5, y: 47.4375}
+      - - {x: -0.5, y: 11.4375}
+        - {x: -2.5, y: 9.4375}
+        - {x: -2.5, y: 7.4375}
+        - {x: -0.5, y: 5.4375}
+        - {x: 1.5, y: 5.4375}
+        - {x: 3.5, y: 7.4375}
+        - {x: 3.5, y: 9.4375}
+        - {x: 1.5, y: 11.4375}
+    - name: radar087
+      rect:
+        serializedVersion: 2
+        x: 4254
+        y: 10010
+        width: 632
+        height: 637
+      alignment: 9
+      pivot: {x: 0.49525318, y: 0.40973312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.125, y: 47.4375}
+        - {x: -27.875, y: 47.4375}
+        - {x: -38.875, y: 35.4375}
+        - {x: -38.875, y: -12.5625}
+        - {x: -25.875, y: -32.5625}
+        - {x: 31.125, y: -32.5625}
+        - {x: 41.125, y: -6.5625}
+        - {x: 41.125, y: 34.4375}
+        - {x: 39.125, y: 39.4375}
+      - - {x: 0.125, y: 11.4375}
+        - {x: -2.875, y: 8.4375}
+        - {x: -2.875, y: 6.4375}
+        - {x: -0.875, y: 4.4375}
+        - {x: 2.125, y: 4.4375}
+        - {x: 4.125, y: 6.4375}
+        - {x: 4.125, y: 8.4375}
+        - {x: 1.125, y: 11.4375}
+    - name: radar088
+      rect:
+        serializedVersion: 2
+        x: 4340
+        y: 10649
+        width: 643
+        height: 639
+      alignment: 9
+      pivot: {x: 0.503888, y: 0.40688577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.3125, y: 47.5625}
+        - {x: -40.3125, y: 31.5625}
+        - {x: -40.3125, y: -9.4375}
+        - {x: -32.3125, y: -32.4375}
+        - {x: 17.6875, y: -32.4375}
+        - {x: 40.6875, y: -15.4375}
+        - {x: 40.6875, y: 43.5625}
+        - {x: 28.6875, y: 47.5625}
+      - - {x: -0.3125, y: 11.5625}
+        - {x: -3.3125, y: 8.5625}
+        - {x: -3.3125, y: 6.5625}
+        - {x: -0.3125, y: 3.5625}
+        - {x: 0.6875, y: 3.5625}
+        - {x: 3.6875, y: 6.5625}
+        - {x: 3.6875, y: 8.5625}
+        - {x: 0.6875, y: 11.5625}
+    - name: radar089
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 10634
+        width: 649
+        height: 647
+      alignment: 9
+      pivot: {x: 0.5007704, y: 0.4064915}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.4375, y: 48.8125}
+        - {x: -40.4375, y: 33.8125}
+        - {x: -40.4375, y: -9.1875}
+        - {x: -33.4375, y: -20.1875}
+        - {x: -23.4375, y: -33.1875}
+        - {x: 34.5625, y: -33.1875}
+        - {x: 41.5625, y: -13.1875}
+        - {x: 41.5625, y: 35.8125}
+        - {x: 28.5625, y: 48.8125}
+      - - {x: -1.4375, y: 10.8125}
+        - {x: -3.4375, y: 8.8125}
+        - {x: -3.4375, y: 5.8125}
+        - {x: -1.4375, y: 3.8125}
+        - {x: 1.5625, y: 3.8125}
+        - {x: 4.5625, y: 6.8125}
+        - {x: 4.5625, y: 8.8125}
+        - {x: 2.5625, y: 10.8125}
+    - name: radar090
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 11283
+        width: 658
+        height: 661
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41149774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.125, y: 49.1875}
+        - {x: -41.125, y: -21.8125}
+        - {x: -23.125, y: -33.8125}
+        - {x: 30.875, y: -33.8125}
+        - {x: 41.875, y: -20.8125}
+        - {x: 41.875, y: 30.1875}
+        - {x: 29.875, y: 49.1875}
+      - - {x: -1.125, y: 12.1875}
+        - {x: -4.125, y: 9.1875}
+        - {x: -4.125, y: 6.1875}
+        - {x: -2.125, y: 4.1875}
+        - {x: 1.875, y: 4.1875}
+        - {x: 3.875, y: 6.1875}
+        - {x: 3.875, y: 9.1875}
+        - {x: 0.875, y: 12.1875}
+    - name: radar091
+      rect:
+        serializedVersion: 2
+        x: 7521
+        y: 15722
+        width: 664
+        height: 661
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41149774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.875, y: 49.0625}
+        - {x: -41.875, y: 40.0625}
+        - {x: -41.875, y: -17.9375}
+        - {x: -25.875, y: -33.9375}
+        - {x: 35.125, y: -33.9375}
+        - {x: 42.125, y: -13.9375}
+        - {x: 42.125, y: 40.0625}
+        - {x: 30.125, y: 49.0625}
+      - - {x: -1.875, y: 12.0625}
+        - {x: -4.875, y: 9.0625}
+        - {x: -4.875, y: 6.0625}
+        - {x: -1.875, y: 3.0625}
+        - {x: 0.125, y: 3.0625}
+        - {x: 4.125, y: 7.0625}
+        - {x: 4.125, y: 9.0625}
+        - {x: 1.125, y: 12.0625}
+    - name: radar092
+      rect:
+        serializedVersion: 2
+        x: 5953
+        y: 11295
+        width: 672
+        height: 671
+      alignment: 9
+      pivot: {x: 0.4985119, y: 0.4128167}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.25, y: 50.6875}
+        - {x: -42.25, y: 28.6875}
+        - {x: -42.25, y: -16.3125}
+        - {x: -18.25, y: -34.3125}
+        - {x: 17.75, y: -34.3125}
+        - {x: 31.75, y: -30.3125}
+        - {x: 42.75, y: -8.3125}
+        - {x: 42.75, y: 32.6875}
+        - {x: 22.75, y: 50.6875}
+      - - {x: -3.25, y: 3.6875}
+        - {x: 0.75, y: 3.6875}
+        - {x: 3.75, y: 4.6875}
+        - {x: 3.75, y: 11.6875}
+        - {x: 2.75, y: 13.6875}
+        - {x: -1.25, y: 13.6875}
+        - {x: -5.25, y: 11.6875}
+        - {x: -5.25, y: 6.6875}
+    - name: radar093
+      rect:
+        serializedVersion: 2
+        x: 5205
+        y: 11295
+        width: 677
+        height: 678
+      alignment: 9
+      pivot: {x: 0.49926144, y: 0.41297936}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.3125, y: 51.25}
+        - {x: -42.3125, y: 44.25}
+        - {x: -42.3125, y: -11.75}
+        - {x: -25.3125, y: -31.75}
+        - {x: -19.3125, y: -34.75}
+        - {x: 43.6875, y: -34.75}
+        - {x: 43.6875, y: 51.25}
+      - - {x: -3.3125, y: 13.25}
+        - {x: -5.3125, y: 9.25}
+        - {x: -5.3125, y: 7.25}
+        - {x: -1.3125, y: 3.25}
+        - {x: 1.6875, y: 3.25}
+        - {x: 4.6875, y: 6.25}
+        - {x: 4.6875, y: 11.25}
+        - {x: 2.6875, y: 13.25}
+    - name: radar094
+      rect:
+        serializedVersion: 2
+        x: 3656
+        y: 11285
+        width: 682
+        height: 684
+      alignment: 9
+      pivot: {x: 0.49706745, y: 0.4122807}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.75, y: 51.625}
+        - {x: -42.75, y: 36.625}
+        - {x: -42.75, y: -24.375}
+        - {x: -18.75, y: -35.375}
+        - {x: 25.25, y: -35.375}
+        - {x: 43.25, y: -25.375}
+        - {x: 43.25, y: 44.625}
+        - {x: 27.25, y: 51.625}
+      - - {x: 0.25, y: 13.625}
+        - {x: -3.75, y: 13.625}
+        - {x: -5.75, y: 10.625}
+        - {x: -5.75, y: 5.625}
+        - {x: -2.75, y: 2.625}
+        - {x: 1.25, y: 2.625}
+        - {x: 4.25, y: 5.625}
+        - {x: 4.25, y: 11.625}
+    - name: radar095
+      rect:
+        serializedVersion: 2
+        x: 2233
+        y: 11968
+        width: 690
+        height: 685
+      alignment: 9
+      pivot: {x: 0.4985507, y: 0.41459855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.25, y: 50.3125}
+        - {x: -43.25, y: -35.6875}
+        - {x: 20.75, y: -35.6875}
+        - {x: 39.75, y: -28.6875}
+        - {x: 43.75, y: -25.6875}
+        - {x: 43.75, y: 35.3125}
+        - {x: 38.75, y: 50.3125}
+      - - {x: -1.25, y: 13.3125}
+        - {x: -6.25, y: 9.3125}
+        - {x: -6.25, y: 5.3125}
+        - {x: -2.25, y: 1.3125}
+        - {x: 0.75, y: 1.3125}
+        - {x: 4.75, y: 5.3125}
+        - {x: 4.75, y: 9.3125}
+        - {x: 0.75, y: 13.3125}
+    - name: radar096
+      rect:
+        serializedVersion: 2
+        x: 4452
+        y: 11977
+        width: 697
+        height: 689
+      alignment: 9
+      pivot: {x: 0.5035868, y: 0.4107402}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.8125, y: 51.3125}
+        - {x: -43.8125, y: 33.3125}
+        - {x: -43.8125, y: -21.6875}
+        - {x: -27.8125, y: -35.6875}
+        - {x: 24.1875, y: -35.6875}
+        - {x: 44.1875, y: -27.6875}
+        - {x: 44.1875, y: 43.3125}
+        - {x: 26.1875, y: 51.3125}
+      - - {x: -1.8125, y: 13.3125}
+        - {x: -5.8125, y: 9.3125}
+        - {x: -5.8125, y: 5.3125}
+        - {x: -1.8125, y: 1.3125}
+        - {x: 2.1875, y: 1.3125}
+        - {x: 6.1875, y: 5.3125}
+        - {x: 6.1875, y: 9.3125}
+        - {x: 2.1875, y: 13.3125}
+    - name: radar097
+      rect:
+        serializedVersion: 2
+        x: 7491
+        y: 14355
+        width: 699
+        height: 702
+      alignment: 9
+      pivot: {x: 0.5007153, y: 0.4159544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.6875, y: 52.25}
+        - {x: -43.6875, y: 41.25}
+        - {x: -43.6875, y: -19.75}
+        - {x: -37.6875, y: -36.75}
+        - {x: 41.3125, y: -36.75}
+        - {x: 44.3125, y: -26.75}
+        - {x: 44.3125, y: 32.25}
+        - {x: 25.3125, y: 52.25}
+      - - {x: -0.6875, y: 14.25}
+        - {x: -6.6875, y: 12.25}
+        - {x: -6.6875, y: 1.25}
+        - {x: 4.3125, y: 1.25}
+        - {x: 6.3125, y: 3.25}
+        - {x: 6.3125, y: 9.25}
+        - {x: 5.3125, y: 14.25}
+    - name: radar098
+      rect:
+        serializedVersion: 2
+        x: 3739
+        y: 12662
+        width: 711
+        height: 704
+      alignment: 9
+      pivot: {x: 0.49929675, y: 0.4190341}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45.4375, y: 52.375}
+        - {x: -27.5625, y: 52.375}
+        - {x: -44.5625, y: 41.375}
+        - {x: -44.5625, y: -25.625}
+        - {x: -20.5625, y: -36.625}
+        - {x: 45.4375, y: -36.625}
+      - - {x: -6.5625, y: 4.375}
+        - {x: -3.5625, y: 1.375}
+        - {x: 0.4375, y: 1.375}
+        - {x: 6.4375, y: 4.375}
+        - {x: 6.4375, y: 11.375}
+        - {x: 5.4375, y: 15.375}
+        - {x: -2.5625, y: 15.375}
+        - {x: -6.5625, y: 11.375}
+    - name: radar099
+      rect:
+        serializedVersion: 2
+        x: 5969
+        y: 11968
+        width: 714
+        height: 713
+      alignment: 9
+      pivot: {x: 0.49859944, y: 0.41795233}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.25, y: 52.3125}
+        - {x: -13.75, y: 52.3125}
+        - {x: -21.75, y: 48.3125}
+        - {x: -27.75, y: 44.3125}
+        - {x: -44.75, y: 34.3125}
+        - {x: -44.75, y: -22.6875}
+        - {x: -38.75, y: -37.6875}
+        - {x: 29.25, y: -37.6875}
+        - {x: 31.25, y: -36.6875}
+        - {x: 45.25, y: -15.6875}
+        - {x: 45.25, y: 25.3125}
+        - {x: 41.25, y: 40.3125}
+      - - {x: -5.75, y: 14.3125}
+        - {x: -7.75, y: 12.3125}
+        - {x: -7.75, y: 5.3125}
+        - {x: -5.75, y: 0.3125}
+        - {x: 5.25, y: 0.3125}
+        - {x: 6.25, y: 2.3125}
+        - {x: 6.25, y: 12.3125}
+        - {x: 2.25, y: 14.3125}
+    - name: radar100
+      rect:
+        serializedVersion: 2
+        x: 7471
+        y: 13637
+        width: 720
+        height: 716
+      alignment: 9
+      pivot: {x: 0.49722221, y: 0.41899443}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.375, y: 53.375}
+        - {x: -44.375, y: 46.375}
+        - {x: -44.375, y: -29.625}
+        - {x: -39.375, y: -37.625}
+        - {x: 33.625, y: -37.625}
+        - {x: 46.625, y: -8.625}
+        - {x: 46.625, y: 30.375}
+        - {x: 30.625, y: 53.375}
+      - - {x: -1.375, y: 15.375}
+        - {x: -6.375, y: 14.375}
+        - {x: -6.375, y: 5.375}
+        - {x: -3.375, y: 0.375}
+        - {x: 4.625, y: 0.375}
+        - {x: 8.625, y: 1.375}
+        - {x: 8.625, y: 13.375}
+        - {x: 6.625, y: 15.375}
+    - name: radar101
+      rect:
+        serializedVersion: 2
+        x: 6713
+        y: 13404
+        width: 727
+        height: 728
+      alignment: 9
+      pivot: {x: 0.4965612, y: 0.42032966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.0625, y: 53.75}
+        - {x: -45.0625, y: 50.75}
+        - {x: -45.0625, y: -20.25}
+        - {x: -34.0625, y: -38.25}
+        - {x: 31.9375, y: -38.25}
+        - {x: 32.9375, y: -37.25}
+        - {x: 45.9375, y: -16.25}
+        - {x: 45.9375, y: 43.75}
+        - {x: 42.9375, y: 53.75}
+      - - {x: -3.0625, y: 15.75}
+        - {x: -8.0625, y: 13.75}
+        - {x: -8.0625, y: 4.75}
+        - {x: -6.0625, y: -0.25}
+        - {x: 1.9375, y: -0.25}
+        - {x: 7.9375, y: 2.75}
+        - {x: 7.9375, y: 11.75}
+        - {x: 2.9375, y: 15.75}
+    - name: radar102
+      rect:
+        serializedVersion: 2
+        x: 3761
+        y: 13368
+        width: 728
+        height: 732
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4180328}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.875, y: 53.5}
+        - {x: -45.875, y: 44.5}
+        - {x: -45.875, y: -16.5}
+        - {x: -33.875, y: -38.5}
+        - {x: 23.125, y: -38.5}
+        - {x: 46.125, y: -16.5}
+        - {x: 46.125, y: 33.5}
+        - {x: 40.125, y: 53.5}
+      - - {x: -8.875, y: 15.5}
+        - {x: -8.875, y: 4.5}
+        - {x: -6.875, y: -1.5}
+        - {x: 4.125, y: -1.5}
+        - {x: 8.125, y: 5.5}
+        - {x: 8.125, y: 10.5}
+        - {x: 5.125, y: 15.5}
+    - name: radar103
+      rect:
+        serializedVersion: 2
+        x: 6737
+        y: 14134
+        width: 732
+        height: 736
+      alignment: 9
+      pivot: {x: 0.49726775, y: 0.41847825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.375, y: 54.75}
+        - {x: -15.625, y: 54.75}
+        - {x: -27.625, y: 51.75}
+        - {x: -45.625, y: 30.75}
+        - {x: -45.625, y: -13.25}
+        - {x: -36.625, y: -38.25}
+        - {x: 39.375, y: -38.25}
+        - {x: 46.375, y: -11.25}
+        - {x: 46.375, y: 35.75}
+        - {x: 26.375, y: 52.75}
+      - - {x: 6.375, y: 16.75}
+        - {x: -4.625, y: 16.75}
+        - {x: -8.625, y: 14.75}
+        - {x: -8.625, y: 4.75}
+        - {x: -5.625, y: -0.25}
+        - {x: 4.375, y: -0.25}
+        - {x: 8.375, y: 3.75}
+        - {x: 8.375, y: 13.75}
+    - name: radar104
+      rect:
+        serializedVersion: 2
+        x: 5265
+        y: 14135
+        width: 734
+        height: 735
+      alignment: 9
+      pivot: {x: 0.4972752, y: 0.42040816}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.625, y: 54.6875}
+        - {x: -45.625, y: 43.6875}
+        - {x: -45.625, y: -28.3125}
+        - {x: -26.625, y: -38.3125}
+        - {x: 29.375, y: -38.3125}
+        - {x: 46.375, y: -18.3125}
+        - {x: 46.375, y: 44.6875}
+        - {x: 39.375, y: 54.6875}
+      - - {x: -5.625, y: 17.6875}
+        - {x: -9.625, y: 14.6875}
+        - {x: -9.625, y: 2.6875}
+        - {x: -8.625, y: -0.3125}
+        - {x: 4.375, y: -0.3125}
+        - {x: 8.375, y: 1.6875}
+        - {x: 8.375, y: 12.6875}
+        - {x: 3.375, y: 17.6875}
+    - name: radar105
+      rect:
+        serializedVersion: 2
+        x: 2245
+        y: 13361
+        width: 743
+        height: 743
+      alignment: 9
+      pivot: {x: 0.49798116, y: 0.41991925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.8125, y: 51.0625}
+        - {x: 23.8125, y: 54.0625}
+        - {x: -22.1875, y: 54.0625}
+        - {x: -46.1875, y: 44.0625}
+        - {x: -46.1875, y: -13.9375}
+        - {x: -27.1875, y: -38.9375}
+        - {x: 28.8125, y: -38.9375}
+        - {x: 46.8125, y: -24.9375}
+        - {x: 47.8125, y: -16.9375}
+        - {x: 47.8125, y: 33.0625}
+      - - {x: -5.1875, y: 17.0625}
+        - {x: -9.1875, y: 12.0625}
+        - {x: -9.1875, y: 2.0625}
+        - {x: -5.1875, y: -1.9375}
+        - {x: 4.8125, y: -1.9375}
+        - {x: 9.8125, y: 0.0625}
+        - {x: 9.8125, y: 16.0625}
+        - {x: 3.8125, y: 17.0625}
+    - name: radar106
+      rect:
+        serializedVersion: 2
+        x: 5265
+        y: 14872
+        width: 740
+        height: 747
+      alignment: 9
+      pivot: {x: 0.50135136, y: 0.42034805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 54.4375}
+        - {x: -31.5, y: 50.4375}
+        - {x: -46.5, y: 38.4375}
+        - {x: -46.5, y: -30.5625}
+        - {x: -38.5, y: -39.5625}
+        - {x: 30.5, y: -39.5625}
+        - {x: 46.5, y: -30.5625}
+        - {x: 46.5, y: 33.4375}
+        - {x: 23.5, y: 54.4375}
+      - - {x: -5.5, y: 17.4375}
+        - {x: -10.5, y: 11.4375}
+        - {x: -10.5, y: -1.5625}
+        - {x: -7.5, y: -2.5625}
+        - {x: 8.5, y: -2.5625}
+        - {x: 9.5, y: 1.4375}
+        - {x: 9.5, y: 14.4375}
+        - {x: 4.5, y: 17.4375}
+    - name: radar107
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 12610
+        width: 741
+        height: 750
+      alignment: 9
+      pivot: {x: 0.5006748, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.3125, y: 54.75}
+        - {x: -46.3125, y: 37.75}
+        - {x: -46.3125, y: -32.25}
+        - {x: -23.3125, y: -39.25}
+        - {x: 26.6875, y: -39.25}
+        - {x: 46.6875, y: -20.25}
+        - {x: 46.6875, y: 32.75}
+        - {x: 38.6875, y: 54.75}
+      - - {x: 5.6875, y: 18.75}
+        - {x: -5.3125, y: 18.75}
+        - {x: -10.3125, y: 15.75}
+        - {x: -10.3125, y: 0.75}
+        - {x: -8.3125, y: -2.25}
+        - {x: 5.6875, y: -2.25}
+        - {x: 10.6875, y: 3.75}
+        - {x: 10.6875, y: 13.75}
+    - name: radar108
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 14868
+        width: 749
+        height: 749
+      alignment: 9
+      pivot: {x: 0.49933246, y: 0.42189586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.1875, y: 55.3125}
+        - {x: -33.8125, y: 55.3125}
+        - {x: -46.8125, y: 38.3125}
+        - {x: -46.8125, y: -25.6875}
+        - {x: -28.8125, y: -39.6875}
+        - {x: 34.1875, y: -39.6875}
+        - {x: 46.1875, y: -19.6875}
+        - {x: 47.1875, y: -15.6875}
+        - {x: 47.1875, y: 33.3125}
+      - - {x: -8.8125, y: 18.3125}
+        - {x: -10.8125, y: 12.3125}
+        - {x: -10.8125, y: 1.3125}
+        - {x: -5.8125, y: -2.6875}
+        - {x: 8.1875, y: -2.6875}
+        - {x: 10.1875, y: 2.3125}
+        - {x: 10.1875, y: 16.3125}
+        - {x: 6.1875, y: 18.3125}
+    - name: radar109
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 14106
+        width: 746
+        height: 753
+      alignment: 9
+      pivot: {x: 0.49865952, y: 0.41965473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.75, y: 55.3125}
+        - {x: -46.75, y: 47.3125}
+        - {x: -46.75, y: -17.6875}
+        - {x: -39.75, y: -39.6875}
+        - {x: 47.25, y: -39.6875}
+        - {x: 47.25, y: 55.3125}
+      - - {x: -9.75, y: 19.3125}
+        - {x: -11.75, y: 13.3125}
+        - {x: -11.75, y: 0.3125}
+        - {x: -7.75, y: -3.6875}
+        - {x: 5.25, y: -3.6875}
+        - {x: 11.25, y: -1.6875}
+        - {x: 11.25, y: 15.3125}
+        - {x: 6.25, y: 19.3125}
+    - name: radar110
+      rect:
+        serializedVersion: 2
+        x: 3761
+        y: 14102
+        width: 750
+        height: 756
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41931218}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.875, y: 56.375}
+        - {x: -46.875, y: 40.375}
+        - {x: -46.875, y: -35.625}
+        - {x: -33.875, y: -39.625}
+        - {x: 38.125, y: -39.625}
+        - {x: 47.125, y: -21.625}
+        - {x: 47.125, y: 48.375}
+        - {x: 25.125, y: 56.375}
+      - - {x: 8.125, y: 20.375}
+        - {x: -6.875, y: 20.375}
+        - {x: -11.875, y: 17.375}
+        - {x: -11.875, y: -1.625}
+        - {x: -5.875, y: -3.625}
+        - {x: 7.125, y: -3.625}
+        - {x: 12.125, y: 2.375}
+        - {x: 12.125, y: 15.375}
+    - name: radar111
+      rect:
+        serializedVersion: 2
+        x: 3009
+        y: 14860
+        width: 750
+        height: 758
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41952506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.875, y: 56.125}
+        - {x: -46.875, y: 34.125}
+        - {x: -46.875, y: -23.875}
+        - {x: -34.875, y: -33.875}
+        - {x: -24.875, y: -39.875}
+        - {x: 38.125, y: -39.875}
+        - {x: 47.125, y: -15.875}
+        - {x: 47.125, y: 44.125}
+        - {x: 27.125, y: 56.125}
+      - - {x: -8.875, y: 20.125}
+        - {x: -12.875, y: 16.125}
+        - {x: -12.875, y: -0.875}
+        - {x: -7.875, y: -4.875}
+        - {x: 5.125, y: -4.875}
+        - {x: 12.125, y: -1.875}
+        - {x: 12.125, y: 18.125}
+        - {x: 6.125, y: 20.125}
+    - name: radar112
+      rect:
+        serializedVersion: 2
+        x: 2257
+        y: 15620
+        width: 750
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42201835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.875, y: 55.9375}
+        - {x: -46.875, y: 42.9375}
+        - {x: -46.875, y: -20.0625}
+        - {x: -36.875, y: -40.0625}
+        - {x: 47.125, y: -40.0625}
+        - {x: 47.125, y: 50.9375}
+        - {x: 35.125, y: 55.9375}
+      - - {x: -8.875, y: 20.9375}
+        - {x: -12.875, y: 13.9375}
+        - {x: -12.875, y: 0.9375}
+        - {x: -5.875, y: -5.0625}
+        - {x: 8.125, y: -5.0625}
+        - {x: 13.125, y: 3.9375}
+        - {x: 13.125, y: 15.9375}
+        - {x: 9.125, y: 20.9375}
+    - name: radar113
+      rect:
+        serializedVersion: 2
+        x: 4513
+        y: 15621
+        width: 750
+        height: 762
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4199475}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.875, y: 56.25}
+        - {x: -46.875, y: 39.25}
+        - {x: -46.875, y: -16.75}
+        - {x: -33.875, y: -39.75}
+        - {x: 34.125, y: -39.75}
+        - {x: 47.125, y: -20.75}
+        - {x: 47.125, y: 30.25}
+        - {x: 40.125, y: 56.25}
+      - - {x: -9.875, y: -18.75}
+        - {x: -28.875, y: 1.25}
+        - {x: -20.875, y: 29.25}
+        - {x: 23.125, y: 27.25}
+      - - {x: -7.875, y: 21.25}
+        - {x: -13.875, y: 13.25}
+        - {x: -13.875, y: -1.75}
+        - {x: -6.875, y: -4.75}
+        - {x: 9.125, y: -4.75}
+        - {x: 13.125, y: 1.25}
+        - {x: 13.125, y: 15.25}
+        - {x: 5.125, y: 21.25}
+    - name: radar114
+      rect:
+        serializedVersion: 2
+        x: 5265
+        y: 15621
+        width: 750
+        height: 762
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42257217}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31.125, y: 56}
+        - {x: -37.875, y: 56}
+        - {x: -46.875, y: 42}
+        - {x: -46.875, y: -29}
+        - {x: -28.875, y: -40}
+        - {x: 42.125, y: -40}
+        - {x: 47.125, y: -31}
+        - {x: 47.125, y: 48}
+      - - {x: -32.875, y: 1}
+        - {x: -4.875, y: 43}
+        - {x: 35.125, y: 3}
+        - {x: -5.875, y: -25}
+      - - {x: -13.875, y: 1}
+        - {x: -6.875, y: -6}
+        - {x: 5.125, y: -6}
+        - {x: 14.125, y: -1}
+        - {x: 14.125, y: 11}
+        - {x: 12.125, y: 16}
+        - {x: 9.125, y: 22}
+        - {x: -7.875, y: 22}
+        - {x: -13.875, y: 20}
+    - name: radar115
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 15619
+        width: 750
+        height: 764
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42277488}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.875, y: 55.75}
+        - {x: -46.875, y: -32.25}
+        - {x: -44.875, y: -40.25}
+        - {x: 21.125, y: -40.25}
+        - {x: 35.125, y: -37.25}
+        - {x: 47.125, y: -15.25}
+        - {x: 47.125, y: 43.75}
+        - {x: 25.125, y: 55.75}
+      - - {x: -33.875, y: -1.25}
+        - {x: -20.875, y: 36.75}
+        - {x: 13.125, y: 41.75}
+        - {x: 34.125, y: -2.25}
+      - - {x: -9.875, y: 22.75}
+        - {x: -14.875, y: 18.75}
+        - {x: -14.875, y: 0.75}
+        - {x: -10.875, y: -6.25}
+        - {x: 12.125, y: -6.25}
+        - {x: 14.125, y: 1.75}
+        - {x: 14.125, y: 16.75}
+        - {x: 9.125, y: 22.75}
+    - name: radar116
+      rect:
+        serializedVersion: 2
+        x: 5436
+        y: 9631
+        width: 223
+        height: 220
+      alignment: 9
+      pivot: {x: 0.50672644, y: 0.23181818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: radar117
+      rect:
+        serializedVersion: 2
+        x: 2629
+        y: 10822
+        width: 224
+        height: 228
+      alignment: 9
+      pivot: {x: 0.5223214, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: radar118
+      rect:
+        serializedVersion: 2
+        x: 7043
+        y: 6256
+        width: 241
+        height: 233
+      alignment: 9
+      pivot: {x: 0.5103735, y: 0.2360515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: radar119
+      rect:
+        serializedVersion: 2
+        x: 6316
+        y: 6219
+        width: 239
+        height: 249
+      alignment: 9
+      pivot: {x: 0.51882845, y: 0.26104417}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: radar120
+      rect:
+        serializedVersion: 2
+        x: 6316
+        y: 6470
+        width: 258
+        height: 257
+      alignment: 9
+      pivot: {x: 0.5116279, y: 0.27626458}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.375, y: 24.4375}
+        - {x: -16.375, y: 17.4375}
+        - {x: -16.375, y: -3.5625}
+        - {x: -9.375, y: -8.5625}
+        - {x: 10.625, y: -8.5625}
+        - {x: 16.625, y: -0.5625}
+        - {x: 16.625, y: 18.4375}
+        - {x: 10.625, y: 24.4375}
+    - name: radar121
+      rect:
+        serializedVersion: 2
+        x: 7043
+        y: 6491
+        width: 266
+        height: 265
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2792453}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.625, y: 24.6875}
+        - {x: -16.625, y: 20.6875}
+        - {x: -16.625, y: -6.3125}
+        - {x: -14.625, y: -9.3125}
+        - {x: 12.375, y: -9.3125}
+        - {x: 17.375, y: -5.3125}
+        - {x: 17.375, y: 18.6875}
+        - {x: 11.375, y: 24.6875}
+    - name: radar122
+      rect:
+        serializedVersion: 2
+        x: 5784
+        y: 6602
+        width: 270
+        height: 278
+      alignment: 9
+      pivot: {x: 0.5222222, y: 0.28417265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.75, y: 25.25}
+        - {x: -17.75, y: 18.25}
+        - {x: -17.75, y: -3.75}
+        - {x: -12.75, y: -9.75}
+        - {x: 10.25, y: -9.75}
+        - {x: 16.25, y: -5.75}
+        - {x: 16.25, y: 18.25}
+        - {x: 8.25, y: 25.25}
+    - name: radar123
+      rect:
+        serializedVersion: 2
+        x: 6888
+        y: 7391
+        width: 287
+        height: 278
+      alignment: 9
+      pivot: {x: 0.5087108, y: 0.2877698}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.3125, y: 26.25}
+        - {x: -18.3125, y: 22.25}
+        - {x: -18.3125, y: -2.75}
+        - {x: -14.3125, y: -9.75}
+        - {x: 10.6875, y: -9.75}
+        - {x: 17.6875, y: -0.75}
+        - {x: 17.6875, y: 18.25}
+        - {x: 8.6875, y: 26.25}
+    - name: radar124
+      rect:
+        serializedVersion: 2
+        x: 2561
+        y: 10010
+        width: 291
+        height: 289
+      alignment: 9
+      pivot: {x: 0.5017182, y: 0.28719723}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.4375, y: 26.4375}
+        - {x: -18.4375, y: 23.4375}
+        - {x: -18.4375, y: -9.5625}
+        - {x: -17.4375, y: -10.5625}
+        - {x: 12.5625, y: -10.5625}
+        - {x: 18.5625, y: -7.5625}
+        - {x: 18.5625, y: 20.4375}
+        - {x: 10.5625, y: 26.4375}
+    - name: radar125
+      rect:
+        serializedVersion: 2
+        x: 5186
+        y: 6938
+        width: 297
+        height: 293
+      alignment: 9
+      pivot: {x: 0.5016835, y: 0.3003413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.8125, y: 26.0625}
+        - {x: -18.8125, y: 19.0625}
+        - {x: -18.8125, y: -3.9375}
+        - {x: -11.8125, y: -10.9375}
+        - {x: 10.1875, y: -10.9375}
+        - {x: 19.1875, y: -1.9375}
+        - {x: 19.1875, y: 19.0625}
+        - {x: 16.1875, y: 26.0625}
+    - name: radar126
+      rect:
+        serializedVersion: 2
+        x: 7867
+        y: 6467
+        width: 308
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5032467, y: 0.30645162}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.25, y: 27.875}
+        - {x: -19.25, y: 19.875}
+        - {x: -19.25, y: -5.125}
+        - {x: -16.25, y: -12.125}
+        - {x: 18.75, y: -12.125}
+        - {x: 19.75, y: -10.125}
+        - {x: 19.75, y: 18.875}
+        - {x: 16.75, y: 27.875}
+    - name: radar127
+      rect:
+        serializedVersion: 2
+        x: 4560
+        y: 7030
+        width: 325
+        height: 316
+      alignment: 9
+      pivot: {x: 0.4953846, y: 0.30379745}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.3125, y: 29}
+        - {x: -20.3125, y: 23}
+        - {x: -20.3125, y: -12}
+        - {x: 18.6875, y: -12}
+        - {x: 20.6875, y: -9}
+        - {x: 20.6875, y: 18}
+        - {x: 16.6875, y: 29}
+    - name: radar128
+      rect:
+        serializedVersion: 2
+        x: 4648
+        y: 7675
+        width: 328
+        height: 325
+      alignment: 9
+      pivot: {x: 0.5030488, y: 0.32307693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.625, y: 28.0625}
+        - {x: -20.625, y: 27.0625}
+        - {x: -20.625, y: -8.9375}
+        - {x: -16.625, y: -12.9375}
+        - {x: 14.375, y: -12.9375}
+        - {x: 20.375, y: -10.9375}
+        - {x: 20.375, y: 28.0625}
+    - name: radar129
+      rect:
+        serializedVersion: 2
+        x: 6328
+        y: 9899
+        width: 331
+        height: 334
+      alignment: 9
+      pivot: {x: 0.51057404, y: 0.3233533}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.4375, y: 29.25}
+        - {x: -21.4375, y: 21.25}
+        - {x: -21.4375, y: -13.75}
+        - {x: 20.5625, y: -13.75}
+        - {x: 20.5625, y: 24.25}
+        - {x: 17.5625, y: 29.25}
+    - name: radar130
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 9300
+        width: 341
+        height: 353
+      alignment: 9
+      pivot: {x: 0.49853373, y: 0.3371105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.1875, y: 30.1875}
+        - {x: -21.1875, y: 23.1875}
+        - {x: -21.1875, y: -9.8125}
+        - {x: -9.1875, y: -14.8125}
+        - {x: 12.8125, y: -14.8125}
+        - {x: 21.8125, y: -6.8125}
+        - {x: 21.8125, y: 20.1875}
+        - {x: 11.8125, y: 30.1875}
+    - name: radar131
+      rect:
+        serializedVersion: 2
+        x: 6328
+        y: 10571
+        width: 354
+        height: 360
+      alignment: 9
+      pivot: {x: 0.5169492, y: 0.33888888}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.25, y: 30.625}
+        - {x: -23.25, y: 21.625}
+        - {x: -23.25, y: -1.375}
+        - {x: -21.25, y: -6.375}
+        - {x: -12.25, y: -15.375}
+        - {x: 11.75, y: -15.375}
+        - {x: 21.75, y: -13.375}
+        - {x: 21.75, y: 25.625}
+        - {x: 11.75, y: 30.625}
+    - name: radar132
+      rect:
+        serializedVersion: 2
+        x: 4978
+        y: 7609
+        width: 368
+        height: 366
+      alignment: 9
+      pivot: {x: 0.51086956, y: 0.33606556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.75, y: 30.625}
+        - {x: -23.75, y: 19.625}
+        - {x: -23.75, y: -8.375}
+        - {x: -13.75, y: -15.375}
+        - {x: 17.25, y: -15.375}
+        - {x: 23.25, y: -3.375}
+        - {x: 23.25, y: 21.625}
+        - {x: 15.25, y: 30.625}
+    - name: radar133
+      rect:
+        serializedVersion: 2
+        x: 4267
+        y: 7621
+        width: 379
+        height: 379
+      alignment: 9
+      pivot: {x: 0.5039578, y: 0.34300792}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.8125, y: 32.0625}
+        - {x: -23.8125, y: 28.0625}
+        - {x: -23.8125, y: -6.9375}
+        - {x: -17.8125, y: -15.9375}
+        - {x: 17.1875, y: -15.9375}
+        - {x: 24.1875, y: -10.9375}
+        - {x: 24.1875, y: 23.0625}
+        - {x: 17.1875, y: 32.0625}
+    - name: radar134
+      rect:
+        serializedVersion: 2
+        x: 7570
+        y: 7091
+        width: 383
+        height: 380
+      alignment: 9
+      pivot: {x: 0.5143603, y: 0.3394737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.9375, y: 32}
+        - {x: -24.9375, y: 28}
+        - {x: -24.9375, y: -13}
+        - {x: -22.9375, y: -16}
+        - {x: 24.0625, y: -16}
+        - {x: 24.0625, y: 32}
+    - name: radar135
+      rect:
+        serializedVersion: 2
+        x: 5930
+        y: 7194
+        width: 391
+        height: 396
+      alignment: 9
+      pivot: {x: 0.49872124, y: 0.34848484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.6875, y: 32.75}
+        - {x: -24.6875, y: 22.75}
+        - {x: -24.6875, y: -6.25}
+        - {x: -23.6875, y: -9.25}
+        - {x: -15.6875, y: -17.25}
+        - {x: 19.3125, y: -17.25}
+        - {x: 25.3125, y: -11.25}
+        - {x: 25.3125, y: 21.75}
+        - {x: 20.3125, y: 32.75}
+    - name: radar136
+      rect:
+        serializedVersion: 2
+        x: 7785
+        y: 8874
+        width: 406
+        height: 401
+      alignment: 9
+      pivot: {x: 0.50246304, y: 0.35162094}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.5, y: 33.1875}
+        - {x: -14.5, y: 33.1875}
+        - {x: -25.5, y: 29.1875}
+        - {x: -25.5, y: -13.8125}
+        - {x: -19.5, y: -17.8125}
+        - {x: 19.5, y: -17.8125}
+        - {x: 25.5, y: -5.8125}
+        - {x: 25.5, y: 21.1875}
+        - {x: 24.5, y: 26.1875}
+    - name: radar137
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 7371
+        width: 415
+        height: 414
+      alignment: 9
+      pivot: {x: 0.5036145, y: 0.35507247}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.8125, y: 34.375}
+        - {x: -25.8125, y: 27.375}
+        - {x: -25.8125, y: -5.625}
+        - {x: -24.8125, y: -12.625}
+        - {x: -11.8125, y: -18.625}
+        - {x: 24.1875, y: -18.625}
+        - {x: 27.1875, y: -8.625}
+        - {x: 27.1875, y: 33.375}
+        - {x: 22.1875, y: 34.375}
+    - name: radar138
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 7784
+        width: 420
+        height: 424
+      alignment: 9
+      pivot: {x: 0.50476193, y: 0.3561321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.625002, y: 34.125}
+        - {x: -26.625002, y: 23.125}
+        - {x: -26.625002, y: -10.875}
+        - {x: -16.625002, y: -18.875}
+        - {x: 14.374998, y: -18.875}
+        - {x: 26.374998, y: -14.875}
+        - {x: 26.374998, y: 28.125}
+        - {x: 13.374998, y: 34.125}
+    - name: radar139
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 7753
+        width: 432
+        height: 433
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35796767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.375, y: 34.3125}
+        - {x: 10.375, y: 35.3125}
+        - {x: -15.625, y: 35.3125}
+        - {x: -26.625, y: 28.3125}
+        - {x: -26.625, y: -19.6875}
+        - {x: 17.375, y: -19.6875}
+        - {x: 28.375, y: -10.6875}
+        - {x: 28.375, y: 23.3125}
+    - name: radar140
+      rect:
+        serializedVersion: 2
+        x: 6209
+        y: 9019
+        width: 442
+        height: 438
+      alignment: 9
+      pivot: {x: 0.49773756, y: 0.369863}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.25, y: 35.5}
+        - {x: -24.75, y: 35.5}
+        - {x: -27.75, y: 26.5}
+        - {x: -27.75, y: -11.5}
+        - {x: -19.75, y: -19.5}
+        - {x: -16.75, y: -20.5}
+        - {x: 16.25, y: -20.5}
+        - {x: 27.25, y: -13.5}
+        - {x: 28.25, y: -10.5}
+        - {x: 28.25, y: 29.5}
+    - name: radar141
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 8188
+        width: 455
+        height: 447
+      alignment: 9
+      pivot: {x: 0.50109893, y: 0.3691275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.1875, y: 36.3125}
+        - {x: -22.1875, y: 35.3125}
+        - {x: -28.1875, y: 18.3125}
+        - {x: -28.1875, y: -7.6875}
+        - {x: -15.1875, y: -20.6875}
+        - {x: 26.8125, y: -20.6875}
+        - {x: 29.8125, y: -10.6875}
+        - {x: 29.8125, y: 34.3125}
+        - {x: 23.8125, y: 36.3125}
+    - name: radar142
+      rect:
+        serializedVersion: 2
+        x: 5201
+        y: 8945
+        width: 456
+        height: 462
+      alignment: 9
+      pivot: {x: 0.50877196, y: 0.37445888}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.375, y: 36.375}
+        - {x: -29.375, y: 35.375}
+        - {x: -29.375, y: -8.625}
+        - {x: -15.375, y: -21.625}
+        - {x: 15.625, y: -21.625}
+        - {x: 28.625, y: -15.625}
+        - {x: 28.625, y: 36.375}
+    - name: radar143
+      rect:
+        serializedVersion: 2
+        x: 6185
+        y: 8079
+        width: 465
+        height: 468
+      alignment: 9
+      pivot: {x: 0.5075269, y: 0.37393162}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.1875, y: 38.25}
+        - {x: -23.8125, y: 38.25}
+        - {x: -29.8125, y: 28.25}
+        - {x: -29.8125, y: -14.75}
+        - {x: -21.8125, y: -21.75}
+        - {x: 27.1875, y: -21.75}
+        - {x: 29.1875, y: -15.75}
+        - {x: 29.1875, y: 30.25}
+        - {x: 21.1875, y: 37.25}
+    - name: radar144
+      rect:
+        serializedVersion: 2
+        x: 4492
+        y: 8002
+        width: 485
+        height: 479
+      alignment: 9
+      pivot: {x: 0.5051546, y: 0.37787056}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31.1875, y: 31.0625}
+        - {x: 14.1875, y: 38.0625}
+        - {x: -25.8125, y: 38.0625}
+        - {x: -30.8125, y: 24.0625}
+        - {x: -30.8125, y: -12.9375}
+        - {x: -21.8125, y: -22.9375}
+        - {x: 17.1875, y: -22.9375}
+        - {x: 29.1875, y: -10.9375}
+        - {x: 31.1875, y: -2.9375}
+    - name: radar145
+      rect:
+        serializedVersion: 2
+        x: 4979
+        y: 7977
+        width: 482
+        height: 485
+      alignment: 9
+      pivot: {x: 0.5062241, y: 0.37525773}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 38.1875}
+        - {x: -30.5, y: 26.1875}
+        - {x: -30.5, y: -13.8125}
+        - {x: -19.5, y: -22.8125}
+        - {x: 14.5, y: -22.8125}
+        - {x: 30.5, y: -16.8125}
+        - {x: 30.5, y: 24.1875}
+        - {x: 16.5, y: 38.1875}
+    - name: radar146
+      rect:
+        serializedVersion: 2
+        x: 3358
+        y: 8442
+        width: 492
+        height: 500
+      alignment: 9
+      pivot: {x: 0.50609756, y: 0.376}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.125, y: 39.5}
+        - {x: -31.125, y: 23.5}
+        - {x: -31.125, y: -14.5}
+        - {x: -18.125, y: -23.5}
+        - {x: 20.875, y: -23.5}
+        - {x: 31.875, y: -10.5}
+        - {x: 31.875, y: 26.5}
+        - {x: 16.875, y: 39.5}
+    - name: radar147
+      rect:
+        serializedVersion: 2
+        x: 4516
+        y: 8483
+        width: 507
+        height: 510
+      alignment: 9
+      pivot: {x: 0.5009862, y: 0.38627452}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5625, y: 40.125}
+        - {x: -31.5625, y: 34.125}
+        - {x: -31.5625, y: -22.875}
+        - {x: -27.5625, y: -24.875}
+        - {x: 29.4375, y: -24.875}
+        - {x: 32.4375, y: -14.875}
+        - {x: 32.4375, y: 36.125}
+        - {x: 28.4375, y: 40.125}
+    - name: radar148
+      rect:
+        serializedVersion: 2
+        x: 4001
+        y: 8949
+        width: 513
+        height: 514
+      alignment: 9
+      pivot: {x: 0.50097466, y: 0.38715953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.4375, y: 40.375}
+        - {x: -32.4375, y: -15.625}
+        - {x: -28.4375, y: -24.625}
+        - {x: 29.5625, y: -24.625}
+        - {x: 32.5625, y: -23.625}
+        - {x: 32.5625, y: 40.375}
+    - name: radar149
+      rect:
+        serializedVersion: 2
+        x: 5659
+        y: 8508
+        width: 524
+        height: 524
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.38358778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.375, y: 41.125}
+        - {x: -32.375, y: 33.125}
+        - {x: -32.375, y: -13.875}
+        - {x: -27.375, y: -24.875}
+        - {x: 24.625, y: -24.875}
+        - {x: 33.625, y: -14.875}
+        - {x: 33.625, y: 26.125}
+        - {x: 25.625, y: 41.125}
+    - name: radar150
+      rect:
+        serializedVersion: 2
+        x: 4142
+        y: 9465
+        width: 531
+        height: 543
+      alignment: 9
+      pivot: {x: 0.49717513, y: 0.3922652}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.0625, y: 41.4375}
+        - {x: -33.0625, y: 35.4375}
+        - {x: -33.0625, y: -9.5625}
+        - {x: -26.0625, y: -26.5625}
+        - {x: 31.9375, y: -26.5625}
+        - {x: 34.9375, y: -15.5625}
+        - {x: 34.9375, y: 37.4375}
+        - {x: 30.9375, y: 41.4375}
+    - name: radar151
+      rect:
+        serializedVersion: 2
+        x: 6656
+        y: 9031
+        width: 547
+        height: 545
+      alignment: 9
+      pivot: {x: 0.49725777, y: 0.39449543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.3125, y: 42.5625}
+        - {x: -34.3125, y: 28.5625}
+        - {x: -34.3125, y: -8.4375}
+        - {x: -28.3125, y: -26.4375}
+        - {x: 25.6875, y: -26.4375}
+        - {x: 34.6875, y: -24.4375}
+        - {x: 34.6875, y: 42.5625}
+    - name: radar152
+      rect:
+        serializedVersion: 2
+        x: 5661
+        y: 9034
+        width: 546
+        height: 552
+      alignment: 9
+      pivot: {x: 0.50549453, y: 0.39311594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.75, y: 42.625}
+        - {x: -30.25, y: 42.625}
+        - {x: -34.25, y: 36.625}
+        - {x: -34.25, y: -20.375}
+        - {x: -22.25, y: -27.375}
+        - {x: 29.75, y: -27.375}
+        - {x: 34.75, y: -11.375}
+        - {x: 34.75, y: 32.625}
+    - name: radar153
+      rect:
+        serializedVersion: 2
+        x: 6661
+        y: 9578
+        width: 560
+        height: 559
+      alignment: 9
+      pivot: {x: 0.5017857, y: 0.39892665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 42.8125}
+        - {x: -35, y: 35.8125}
+        - {x: -35, y: -16.1875}
+        - {x: -21, y: -27.1875}
+        - {x: -18, y: -28.1875}
+        - {x: 29, y: -28.1875}
+        - {x: 36, y: -15.1875}
+        - {x: 36, y: 39.8125}
+        - {x: 34, y: 42.8125}
+      - - {x: 0, y: 4.8125}
+        - {x: 3, y: 5.8125}
+        - {x: 3, y: 8.8125}
+        - {x: 0, y: 9.8125}
+        - {x: -2, y: 7.8125}
+    - name: radar154
+      rect:
+        serializedVersion: 2
+        x: 7267
+        y: 10268
+        width: 567
+        height: 569
+      alignment: 9
+      pivot: {x: 0.49559084, y: 0.39367312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.3125, y: 44.0625}
+        - {x: -35.3125, y: 36.0625}
+        - {x: -35.3125, y: -19.9375}
+        - {x: -17.3125, y: -27.9375}
+        - {x: 29.6875, y: -27.9375}
+        - {x: 36.6875, y: -15.9375}
+        - {x: 36.6875, y: 35.0625}
+        - {x: 24.6875, y: 44.0625}
+    - name: radar155
+      rect:
+        serializedVersion: 2
+        x: 6684
+        y: 10710
+        width: 581
+        height: 578
+      alignment: 9
+      pivot: {x: 0.5008606, y: 0.3979239}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.4375, y: 44.625}
+        - {x: -27.5625, y: 44.625}
+        - {x: -36.5625, y: 33.625}
+        - {x: -36.5625, y: -8.375}
+        - {x: -27.5625, y: -28.375}
+        - {x: 18.4375, y: -28.375}
+        - {x: 24.4375, y: -25.375}
+        - {x: 37.4375, y: -11.375}
+        - {x: 37.4375, y: 24.625}
+    - name: radar156
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 8213
+        width: 587
+        height: 585
+      alignment: 9
+      pivot: {x: 0.5025554, y: 0.4051282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.9375, y: 44.5625}
+        - {x: -36.9375, y: 33.5625}
+        - {x: -36.9375, y: -19.4375}
+        - {x: -14.9375, y: -29.4375}
+        - {x: 22.0625, y: -29.4375}
+        - {x: 37.0625, y: -15.4375}
+        - {x: 37.0625, y: 43.5625}
+        - {x: 33.0625, y: 44.5625}
+      - - {x: -0.9375, y: 5.5625}
+        - {x: 2.0625, y: 6.5625}
+        - {x: 2.0625, y: 9.5625}
+        - {x: -0.9375, y: 10.5625}
+        - {x: -2.9375, y: 8.5625}
+    - name: radar157
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 8800
+        width: 591
+        height: 595
+      alignment: 9
+      pivot: {x: 0.49746192, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.8125, y: 44.9375}
+        - {x: -36.8125, y: 36.9375}
+        - {x: -36.8125, y: -30.0625}
+        - {x: 28.1875, y: -30.0625}
+        - {x: 37.1875, y: -18.0625}
+        - {x: 37.1875, y: 41.9375}
+        - {x: 24.1875, y: 44.9375}
+      - - {x: -0.8125, y: 4.9375}
+        - {x: 2.1875, y: 5.9375}
+        - {x: 2.1875, y: 8.9375}
+        - {x: -0.8125, y: 9.9375}
+        - {x: -2.8125, y: 7.9375}
+    - name: radar158
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 8809
+        width: 608
+        height: 606
+      alignment: 9
+      pivot: {x: 0.49506578, y: 0.4009901}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.625, y: 45.625}
+        - {x: -37.625, y: 39.625}
+        - {x: -37.625, y: -19.375}
+        - {x: -30.625, y: -30.375}
+        - {x: 35.375, y: -30.375}
+        - {x: 38.375, y: -29.375}
+        - {x: 38.375, y: 30.625}
+        - {x: 27.375, y: 45.625}
+      - - {x: -2.625, y: 6.625}
+        - {x: -0.625, y: 4.625}
+        - {x: 2.375, y: 5.625}
+        - {x: 2.375, y: 8.625}
+        - {x: 0.375, y: 10.625}
+        - {x: -2.625, y: 9.625}
+    - name: radar159
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 10020
+        width: 612
+        height: 609
+      alignment: 9
+      pivot: {x: 0.503268, y: 0.4039409}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 46.3125}
+        - {x: -38.5, y: 25.3125}
+        - {x: -38.5, y: -7.6875}
+        - {x: -18.5, y: -30.6875}
+        - {x: 19.5, y: -30.6875}
+        - {x: 39.5, y: -23.6875}
+        - {x: 39.5, y: 26.3125}
+        - {x: 25.5, y: 46.3125}
+      - - {x: -0.5, y: 11.3125}
+        - {x: -2.5, y: 9.3125}
+        - {x: -2.5, y: 7.3125}
+        - {x: -0.5, y: 5.3125}
+        - {x: 1.5, y: 5.3125}
+        - {x: 3.5, y: 7.3125}
+        - {x: 3.5, y: 8.3125}
+        - {x: 0.5, y: 11.3125}
+    - name: radar160
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 9394
+        width: 621
+        height: 613
+      alignment: 9
+      pivot: {x: 0.50080514, y: 0.4045677}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.0625, y: 46.0625}
+        - {x: -15.9375, y: 46.0625}
+        - {x: -28.9375, y: 43.0625}
+        - {x: -38.9375, y: 29.0625}
+        - {x: -38.9375, y: -11.9375}
+        - {x: -30.9375, y: -30.9375}
+        - {x: 23.0625, y: -30.9375}
+        - {x: 39.0625, y: -10.9375}
+        - {x: 39.0625, y: 29.0625}
+        - {x: 37.0625, y: 36.0625}
+      - - {x: -0.9375, y: 11.0625}
+        - {x: -2.9375, y: 9.0625}
+        - {x: -2.9375, y: 7.0625}
+        - {x: -0.9375, y: 5.0625}
+        - {x: 1.0625, y: 5.0625}
+        - {x: 3.0625, y: 7.0625}
+        - {x: 3.0625, y: 8.0625}
+        - {x: 0.0625, y: 11.0625}
+    - name: radar161
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 10631
+        width: 624
+        height: 627
+      alignment: 9
+      pivot: {x: 0.49839744, y: 0.40669855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.875, y: 48.1875}
+        - {x: -38.875, y: 38.1875}
+        - {x: -38.875, y: -27.8125}
+        - {x: -31.875, y: -31.8125}
+        - {x: 30.125, y: -31.8125}
+        - {x: 39.125, y: -21.8125}
+        - {x: 39.125, y: 39.1875}
+        - {x: 22.125, y: 48.1875}
+      - - {x: -1.875, y: 11.1875}
+        - {x: -3.875, y: 9.1875}
+        - {x: -3.875, y: 7.1875}
+        - {x: -1.875, y: 5.1875}
+        - {x: 1.125, y: 5.1875}
+        - {x: 3.125, y: 7.1875}
+        - {x: 3.125, y: 9.1875}
+        - {x: 1.125, y: 11.1875}
+    - name: radar162
+      rect:
+        serializedVersion: 2
+        x: 3508
+        y: 10005
+        width: 632
+        height: 637
+      alignment: 9
+      pivot: {x: 0.49525318, y: 0.40973312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.125, y: 48.3125}
+        - {x: -39.125, y: 38.3125}
+        - {x: -39.125, y: -22.6875}
+        - {x: -22.125, y: -32.6875}
+        - {x: 40.875, y: -32.6875}
+        - {x: 40.875, y: 36.3125}
+        - {x: 20.875, y: 48.3125}
+      - - {x: -1.125, y: 11.3125}
+        - {x: -3.125, y: 9.3125}
+        - {x: -3.125, y: 6.3125}
+        - {x: -1.125, y: 4.3125}
+        - {x: 0.875, y: 4.3125}
+        - {x: 3.875, y: 7.3125}
+        - {x: 3.875, y: 8.3125}
+        - {x: 0.875, y: 11.3125}
+    - name: radar163
+      rect:
+        serializedVersion: 2
+        x: 3609
+        y: 10644
+        width: 643
+        height: 639
+      alignment: 9
+      pivot: {x: 0.503888, y: 0.40688577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.6875, y: 48.4375}
+        - {x: -40.6875, y: 42.4375}
+        - {x: -40.6875, y: -31.5625}
+        - {x: -39.6875, y: -32.5625}
+        - {x: 27.3125, y: -32.5625}
+        - {x: 40.3125, y: -27.5625}
+        - {x: 40.3125, y: 48.4375}
+      - - {x: -1.6875, y: 11.4375}
+        - {x: -3.6875, y: 9.4375}
+        - {x: -3.6875, y: 6.4375}
+        - {x: -1.6875, y: 4.4375}
+        - {x: 1.3125, y: 4.4375}
+        - {x: 3.3125, y: 6.4375}
+        - {x: 3.3125, y: 9.4375}
+        - {x: 1.3125, y: 11.4375}
+    - name: radar164
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 10624
+        width: 649
+        height: 647
+      alignment: 9
+      pivot: {x: 0.5007704, y: 0.4064915}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.937496, y: 48.0625}
+        - {x: -40.937496, y: 40.0625}
+        - {x: -40.937496, y: -12.9375}
+        - {x: -23.937496, y: -32.9375}
+        - {x: 22.062504, y: -32.9375}
+        - {x: 41.062504, y: -10.9375}
+        - {x: 41.062504, y: 33.0625}
+        - {x: 24.062504, y: 48.0625}
+      - - {x: -4.937496, y: 10.0625}
+        - {x: -4.937496, y: 6.0625}
+        - {x: -2.9374962, y: 3.0625}
+        - {x: 0.062503815, y: 3.0625}
+        - {x: 3.0625038, y: 5.0625}
+        - {x: 3.0625038, y: 9.0625}
+        - {x: 1.0625038, y: 11.0625}
+        - {x: -1.9374962, y: 11.0625}
+    - name: radar165
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 11273
+        width: 658
+        height: 661
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41149774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.375, y: 48.9375}
+        - {x: -41.375, y: -18.0625}
+        - {x: -24.375, y: -34.0625}
+        - {x: 33.625, y: -34.0625}
+        - {x: 41.625, y: -12.0625}
+        - {x: 41.625, y: 39.9375}
+        - {x: 35.625, y: 48.9375}
+      - - {x: -1.375, y: 11.9375}
+        - {x: -4.375, y: 8.9375}
+        - {x: -4.375, y: 5.9375}
+        - {x: -1.375, y: 2.9375}
+        - {x: 0.625, y: 2.9375}
+        - {x: 3.625, y: 5.9375}
+        - {x: 3.625, y: 8.9375}
+        - {x: 0.625, y: 11.9375}
+    - name: radar166
+      rect:
+        serializedVersion: 2
+        x: 7521
+        y: 15059
+        width: 664
+        height: 661
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41149774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.875, y: 49.1875}
+        - {x: -41.875, y: 47.1875}
+        - {x: -41.875, y: -18.8125}
+        - {x: -40.875, y: -20.8125}
+        - {x: -17.875, y: -33.8125}
+        - {x: 24.125, y: -33.8125}
+        - {x: 42.125, y: -15.8125}
+        - {x: 42.125, y: 28.1875}
+        - {x: 31.125, y: 49.1875}
+      - - {x: -2.875, y: 12.1875}
+        - {x: -4.875, y: 10.1875}
+        - {x: -4.875, y: 6.1875}
+        - {x: -1.875, y: 3.1875}
+        - {x: 0.125, y: 3.1875}
+        - {x: 4.125, y: 7.1875}
+        - {x: 4.125, y: 9.1875}
+        - {x: 1.125, y: 12.1875}
+    - name: radar167
+      rect:
+        serializedVersion: 2
+        x: 7364
+        y: 10839
+        width: 672
+        height: 671
+      alignment: 9
+      pivot: {x: 0.4985119, y: 0.4128167}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.875, y: 50.6875}
+        - {x: -41.875, y: 37.6875}
+        - {x: -41.875, y: -8.3125}
+        - {x: -37.875, y: -19.3125}
+        - {x: -28.875, y: -34.3125}
+        - {x: 26.125, y: -34.3125}
+        - {x: 43.125, y: -26.3125}
+        - {x: 43.125, y: 44.6875}
+        - {x: 27.125, y: 50.6875}
+      - - {x: -0.875, y: 13.6875}
+        - {x: -4.875, y: 9.6875}
+        - {x: -4.875, y: 7.6875}
+        - {x: -0.875, y: 3.6875}
+        - {x: 1.125, y: 3.6875}
+        - {x: 5.125, y: 7.6875}
+        - {x: 5.125, y: 9.6875}
+        - {x: 1.125, y: 13.6875}
+    - name: radar168
+      rect:
+        serializedVersion: 2
+        x: 7386
+        y: 11512
+        width: 677
+        height: 678
+      alignment: 9
+      pivot: {x: 0.49926144, y: 0.41297936}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.1875, y: 49.875}
+        - {x: -42.1875, y: 34.875}
+        - {x: -42.1875, y: -25.125}
+        - {x: -30.1875, y: -35.125}
+        - {x: 20.8125, y: -35.125}
+        - {x: 42.8125, y: -27.125}
+        - {x: 42.8125, y: 29.875}
+        - {x: 20.8125, y: 49.875}
+      - - {x: -2.1875, y: 11.875}
+        - {x: -5.1875, y: 8.875}
+        - {x: -5.1875, y: 5.875}
+        - {x: -1.1875, y: 1.875}
+        - {x: 0.8125, y: 1.875}
+        - {x: 4.8125, y: 5.875}
+        - {x: 4.8125, y: 8.875}
+        - {x: 1.8125, y: 11.875}
+    - name: radar169
+      rect:
+        serializedVersion: 2
+        x: 2925
+        y: 11283
+        width: 682
+        height: 684
+      alignment: 9
+      pivot: {x: 0.49706745, y: 0.4122807}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.125, y: 50.875}
+        - {x: -42.125, y: -35.125}
+        - {x: 23.875, y: -35.125}
+        - {x: 43.875, y: -24.125}
+        - {x: 43.875, y: 46.875}
+        - {x: 27.875, y: 50.875}
+      - - {x: -3.125, y: 12.875}
+        - {x: -5.125, y: 8.875}
+        - {x: -5.125, y: 5.875}
+        - {x: -2.125, y: 2.875}
+        - {x: 2.875, y: 2.875}
+        - {x: 5.875, y: 5.875}
+        - {x: 5.875, y: 9.875}
+        - {x: 2.875, y: 12.875}
+    - name: radar170
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 11923
+        width: 690
+        height: 685
+      alignment: 9
+      pivot: {x: 0.4985507, y: 0.41459855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: 50.6875}
+        - {x: -43, y: 34.6875}
+        - {x: -43, y: -9.3125}
+        - {x: -34, y: -35.3125}
+        - {x: 33, y: -35.3125}
+        - {x: 45, y: -16.3125}
+        - {x: 45, y: 44.6875}
+        - {x: 39, y: 50.6875}
+      - - {x: -1, y: 13.6875}
+        - {x: -5, y: 9.6875}
+        - {x: -5, y: 5.6875}
+        - {x: -2, y: 2.6875}
+        - {x: 3, y: 2.6875}
+        - {x: 6, y: 5.6875}
+        - {x: 6, y: 9.6875}
+        - {x: 2, y: 13.6875}
+    - name: radar171
+      rect:
+        serializedVersion: 2
+        x: 3703
+        y: 11971
+        width: 697
+        height: 689
+      alignment: 9
+      pivot: {x: 0.5035868, y: 0.4107402}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.4375, y: 28.5625}
+        - {x: -43.4375, y: -23.4375}
+        - {x: -34.4375, y: -35.4375}
+        - {x: 31.5625, y: -35.4375}
+        - {x: 44.5625, y: -28.4375}
+        - {x: 44.5625, y: 33.5625}
+        - {x: 35.5625, y: 51.5625}
+        - {x: -24.4375, y: 51.5625}
+        - {x: -41.4375, y: 33.5625}
+      - - {x: -2.4375, y: 13.5625}
+        - {x: -5.4375, y: 9.5625}
+        - {x: -5.4375, y: 3.5625}
+        - {x: -3.4375, y: 1.5625}
+        - {x: 2.5625, y: 1.5625}
+        - {x: 6.5625, y: 3.5625}
+        - {x: 6.5625, y: 10.5625}
+        - {x: 3.5625, y: 13.5625}
+    - name: radar172
+      rect:
+        serializedVersion: 2
+        x: 6685
+        y: 11970
+        width: 699
+        height: 702
+      alignment: 9
+      pivot: {x: 0.5007153, y: 0.4159544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.4375, y: -10.375}
+        - {x: -37.4375, y: -25.375}
+        - {x: -24.4375, y: -36.375}
+        - {x: 22.5625, y: -36.375}
+        - {x: 44.5625, y: -25.375}
+        - {x: 44.5625, y: 39.625}
+        - {x: 36.5625, y: 51.625}
+        - {x: -31.4375, y: 51.625}
+        - {x: -43.4375, y: 28.625}
+      - - {x: 1.5625, y: 14.625}
+        - {x: -2.4375, y: 14.625}
+        - {x: -5.4375, y: 10.625}
+        - {x: -5.4375, y: 5.625}
+        - {x: -1.4375, y: 1.625}
+        - {x: 2.5625, y: 1.625}
+        - {x: 6.5625, y: 5.625}
+        - {x: 6.5625, y: 12.625}
+    - name: radar173
+      rect:
+        serializedVersion: 2
+        x: 2990
+        y: 12660
+        width: 711
+        height: 704
+      alignment: 9
+      pivot: {x: 0.49929675, y: 0.4190341}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.8125, y: 52.125}
+        - {x: -30.1875, y: 52.125}
+        - {x: -44.1875, y: 27.125}
+        - {x: -44.1875, y: -15.875}
+        - {x: -21.1875, y: -36.875}
+        - {x: 24.8125, y: -36.875}
+        - {x: 45.8125, y: -14.875}
+        - {x: 45.8125, y: 28.125}
+        - {x: 44.8125, y: 36.125}
+      - - {x: 2.8125, y: 15.125}
+        - {x: -2.1875, y: 15.125}
+        - {x: -6.1875, y: 11.125}
+        - {x: -6.1875, y: 6.125}
+        - {x: -4.1875, y: 2.125}
+        - {x: -1.1875, y: 1.125}
+        - {x: 3.8125, y: 1.125}
+        - {x: 6.8125, y: 5.125}
+        - {x: 6.8125, y: 12.125}
+    - name: radar174
+      rect:
+        serializedVersion: 2
+        x: 7442
+        y: 12192
+        width: 714
+        height: 713
+      alignment: 9
+      pivot: {x: 0.49859944, y: 0.41795233}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.375, y: 52.3125}
+        - {x: -33.625, y: 52.3125}
+        - {x: -44.625, y: 28.3125}
+        - {x: -44.625, y: -32.6875}
+        - {x: -29.625, y: -37.6875}
+        - {x: 33.375, y: -37.6875}
+        - {x: 45.375, y: -19.6875}
+        - {x: 45.375, y: 42.3125}
+      - - {x: 2.375, y: 14.3125}
+        - {x: -3.625, y: 14.3125}
+        - {x: -7.625, y: 9.3125}
+        - {x: -7.625, y: 5.3125}
+        - {x: -3.625, y: 0.3125}
+        - {x: 2.375, y: 0.3125}
+        - {x: 6.375, y: 4.3125}
+        - {x: 6.375, y: 11.3125}
+    - name: radar175
+      rect:
+        serializedVersion: 2
+        x: 5247
+        y: 12679
+        width: 720
+        height: 716
+      alignment: 9
+      pivot: {x: 0.49722221, y: 0.41899443}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.375, y: 53.625}
+        - {x: -42.375, y: 41.625}
+        - {x: -44.375, y: 25.625}
+        - {x: -44.375, y: -16.375}
+        - {x: -31.375, y: -36.375}
+        - {x: -23.375, y: -37.375}
+        - {x: 30.625, y: -37.375}
+        - {x: 46.625, y: -21.375}
+        - {x: 46.625, y: 43.625}
+        - {x: 26.625, y: 53.625}
+      - - {x: -3.375, y: 15.625}
+        - {x: -6.375, y: 14.625}
+        - {x: -6.375, y: 4.625}
+        - {x: -1.375, y: 0.625}
+        - {x: 2.625, y: 0.625}
+        - {x: 5.625, y: 1.625}
+        - {x: 8.625, y: 4.625}
+        - {x: 8.625, y: 10.625}
+        - {x: 6.625, y: 15.625}
+    - name: radar176
+      rect:
+        serializedVersion: 2
+        x: 7442
+        y: 12907
+        width: 727
+        height: 728
+      alignment: 9
+      pivot: {x: 0.4965612, y: 0.42032966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.4375, y: 53.625}
+        - {x: -45.4375, y: 45.625}
+        - {x: -45.4375, y: -38.375}
+        - {x: 28.5625, y: -38.375}
+        - {x: 46.5625, y: -34.375}
+        - {x: 46.5625, y: 35.625}
+        - {x: 34.5625, y: 53.625}
+      - - {x: 4.5625, y: 14.625}
+        - {x: 1.5625, y: 15.625}
+        - {x: -4.4375, y: 15.625}
+        - {x: -8.4375, y: 11.625}
+        - {x: -8.4375, y: 1.625}
+        - {x: -4.4375, y: -0.375}
+        - {x: 5.5625, y: -0.375}
+        - {x: 7.5625, y: 5.625}
+        - {x: 7.5625, y: 11.625}
+    - name: radar177
+      rect:
+        serializedVersion: 2
+        x: 3009
+        y: 13366
+        width: 728
+        height: 732
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4180328}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.875, y: 54.75}
+        - {x: -45.875, y: 36.75}
+        - {x: -45.875, y: -13.25}
+        - {x: -40.875, y: -20.25}
+        - {x: -23.875, y: -38.25}
+        - {x: 25.125, y: -38.25}
+        - {x: 46.125, y: -29.25}
+        - {x: 46.125, y: 33.75}
+        - {x: 24.125, y: 54.75}
+      - - {x: -2.875, y: 16.75}
+        - {x: -7.875, y: 13.75}
+        - {x: -8.875, y: 13.75}
+        - {x: -8.875, y: 5.75}
+        - {x: -6.875, y: -0.25}
+        - {x: 5.125, y: -0.25}
+        - {x: 8.125, y: 4.75}
+        - {x: 8.125, y: 11.75}
+        - {x: 4.125, y: 16.75}
+    - name: radar178
+      rect:
+        serializedVersion: 2
+        x: 5249
+        y: 13397
+        width: 732
+        height: 736
+      alignment: 9
+      pivot: {x: 0.49726775, y: 0.41847825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.375, y: 54.625}
+        - {x: -23.625, y: 54.625}
+        - {x: -45.625, y: 35.625}
+        - {x: -45.625, y: -30.375}
+        - {x: -24.625, y: -38.375}
+        - {x: 28.375, y: -38.375}
+        - {x: 46.375, y: -21.375}
+        - {x: 46.375, y: 29.625}
+        - {x: 27.375, y: 51.625}
+      - - {x: -3.625, y: 16.625}
+        - {x: -8.625, y: 14.625}
+        - {x: -8.625, y: 4.625}
+        - {x: -5.625, y: -0.375}
+        - {x: 2.375, y: -0.375}
+        - {x: 8.375, y: 0.625}
+        - {x: 8.375, y: 13.625}
+        - {x: 6.375, y: 16.625}
+    - name: radar179
+      rect:
+        serializedVersion: 2
+        x: 4513
+        y: 14120
+        width: 734
+        height: 735
+      alignment: 9
+      pivot: {x: 0.4972752, y: 0.42040816}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.625, y: 53.3125}
+        - {x: -45.625, y: 42.3125}
+        - {x: -45.625, y: -27.6875}
+        - {x: -22.625, y: -38.6875}
+        - {x: 38.375, y: -38.6875}
+        - {x: 46.375, y: -33.6875}
+        - {x: 46.375, y: 42.3125}
+        - {x: 43.375, y: 53.3125}
+      - - {x: -4.625, y: 16.3125}
+        - {x: -9.625, y: 12.3125}
+        - {x: -9.625, y: 4.3125}
+        - {x: -7.625, y: -1.6875}
+        - {x: 3.375, y: -1.6875}
+        - {x: 8.375, y: 3.3125}
+        - {x: 8.375, y: 12.3125}
+        - {x: 3.375, y: 16.3125}
+    - name: radar180
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 13361
+        width: 743
+        height: 743
+      alignment: 9
+      pivot: {x: 0.49798116, y: 0.41991925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.1875, y: 54.0625}
+        - {x: -46.1875, y: 45.0625}
+        - {x: -46.1875, y: -21.9375}
+        - {x: -22.1875, y: -38.9375}
+        - {x: 26.8125, y: -38.9375}
+        - {x: 46.8125, y: -18.9375}
+        - {x: 46.8125, y: 38.0625}
+        - {x: 25.8125, y: 54.0625}
+      - - {x: -7.1875, y: 17.0625}
+        - {x: -10.1875, y: 15.0625}
+        - {x: -10.1875, y: 0.0625}
+        - {x: -5.1875, y: -1.9375}
+        - {x: 4.8125, y: -1.9375}
+        - {x: 9.8125, y: 4.0625}
+        - {x: 9.8125, y: 16.0625}
+        - {x: 3.8125, y: 17.0625}
+    - name: radar181
+      rect:
+        serializedVersion: 2
+        x: 6007
+        y: 14872
+        width: 740
+        height: 747
+      alignment: 9
+      pivot: {x: 0.50135136, y: 0.42034805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.25, y: 54.4375}
+        - {x: -46.25, y: 51.4375}
+        - {x: -46.25, y: -37.5625}
+        - {x: -41.25, y: -39.5625}
+        - {x: 47.75, y: -39.5625}
+        - {x: 47.75, y: 54.4375}
+      - - {x: -4.25, y: 17.4375}
+        - {x: -9.25, y: 13.4375}
+        - {x: -9.25, y: -0.5625}
+        - {x: -6.25, y: -2.5625}
+        - {x: 9.75, y: -2.5625}
+        - {x: 10.75, y: -0.5625}
+        - {x: 10.75, y: 13.4375}
+        - {x: 3.75, y: 17.4375}
+    - name: radar182
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 12609
+        width: 741
+        height: 750
+      alignment: 9
+      pivot: {x: 0.5006748, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.4375, y: 54.625}
+        - {x: -46.4375, y: 42.625}
+        - {x: -46.4375, y: -16.375}
+        - {x: -37.4375, y: -39.375}
+        - {x: 45.5625, y: -39.375}
+        - {x: 46.5625, y: -36.375}
+        - {x: 46.5625, y: 51.625}
+        - {x: 38.5625, y: 54.625}
+      - - {x: -6.4375, y: 17.625}
+        - {x: -10.4375, y: 15.625}
+        - {x: -10.4375, y: 2.625}
+        - {x: -8.4375, y: -3.375}
+        - {x: 10.5625, y: -3.375}
+        - {x: 10.5625, y: 11.625}
+        - {x: 8.5625, y: 17.625}
+    - name: radar183
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 14117
+        width: 749
+        height: 749
+      alignment: 9
+      pivot: {x: 0.49933246, y: 0.42189586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.8125, y: 55.4375}
+        - {x: -46.8125, y: 38.4375}
+        - {x: -46.8125, y: -15.5625}
+        - {x: -26.8125, y: -39.5625}
+        - {x: 41.1875, y: -39.5625}
+        - {x: 47.1875, y: -20.5625}
+        - {x: 47.1875, y: 55.4375}
+      - - {x: -6.8125, y: 19.4375}
+        - {x: -10.8125, y: 17.4375}
+        - {x: -10.8125, y: 2.4375}
+        - {x: -8.8125, y: -2.5625}
+        - {x: 8.1875, y: -2.5625}
+        - {x: 10.1875, y: 2.4375}
+        - {x: 10.1875, y: 16.4375}
+        - {x: 5.1875, y: 19.4375}
+    - name: radar184
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 14106
+        width: 746
+        height: 753
+      alignment: 9
+      pivot: {x: 0.49865952, y: 0.41965473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.25, y: 55.3125}
+        - {x: -46.25, y: 43.3125}
+        - {x: -46.25, y: -22.6875}
+        - {x: -36.25, y: -39.6875}
+        - {x: 47.75, y: -39.6875}
+        - {x: 47.75, y: 51.3125}
+        - {x: 40.75, y: 55.3125}
+      - - {x: -5.25, y: 19.3125}
+        - {x: -11.25, y: 13.3125}
+        - {x: -11.25, y: -3.6875}
+        - {x: 10.75, y: -3.6875}
+        - {x: 11.75, y: 1.3125}
+        - {x: 11.75, y: 14.3125}
+        - {x: 5.75, y: 19.3125}
+    - name: radar185
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 14861
+        width: 750
+        height: 756
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41931218}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.875, y: 56.25}
+        - {x: -33.875, y: 50.25}
+        - {x: -46.875, y: 38.25}
+        - {x: -46.875, y: -16.75}
+        - {x: -38.875, y: -39.75}
+        - {x: 27.125, y: -39.75}
+        - {x: 47.125, y: -26.75}
+        - {x: 47.125, y: 40.25}
+        - {x: 24.125, y: 56.25}
+      - - {x: -9.875, y: 20.25}
+        - {x: -11.875, y: 14.25}
+        - {x: -11.875, y: -2.75}
+        - {x: -10.875, y: -3.75}
+        - {x: 5.125, y: -3.75}
+        - {x: 12.125, y: -0.75}
+        - {x: 12.125, y: 13.25}
+        - {x: 6.125, y: 20.25}
+    - name: radar186
+      rect:
+        serializedVersion: 2
+        x: 3761
+        y: 14860
+        width: 750
+        height: 758
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41952506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.875, y: 56.125}
+        - {x: -46.875, y: 34.125}
+        - {x: -46.875, y: -23.875}
+        - {x: -34.875, y: -33.875}
+        - {x: -24.875, y: -39.875}
+        - {x: 38.125, y: -39.875}
+        - {x: 47.125, y: -15.875}
+        - {x: 47.125, y: 44.125}
+        - {x: 27.125, y: 56.125}
+      - - {x: -8.875, y: 20.125}
+        - {x: -12.875, y: 16.125}
+        - {x: -12.875, y: -0.875}
+        - {x: -7.875, y: -4.875}
+        - {x: 5.125, y: -4.875}
+        - {x: 12.125, y: -1.875}
+        - {x: 12.125, y: 18.125}
+        - {x: 6.125, y: 20.125}
+    - name: radar187
+      rect:
+        serializedVersion: 2
+        x: 3009
+        y: 15620
+        width: 750
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42201835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.875, y: 55.9375}
+        - {x: -46.875, y: 42.9375}
+        - {x: -46.875, y: -20.0625}
+        - {x: -36.875, y: -40.0625}
+        - {x: 47.125, y: -40.0625}
+        - {x: 47.125, y: 50.9375}
+        - {x: 35.125, y: 55.9375}
+      - - {x: -8.875, y: 20.9375}
+        - {x: -12.875, y: 13.9375}
+        - {x: -12.875, y: 0.9375}
+        - {x: -5.875, y: -5.0625}
+        - {x: 8.125, y: -5.0625}
+        - {x: 13.125, y: 3.9375}
+        - {x: 13.125, y: 15.9375}
+        - {x: 9.125, y: 20.9375}
+    - name: radar188
+      rect:
+        serializedVersion: 2
+        x: 6017
+        y: 15621
+        width: 750
+        height: 762
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4199475}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.875, y: 56.25}
+        - {x: -46.875, y: 39.25}
+        - {x: -46.875, y: -16.75}
+        - {x: -33.875, y: -39.75}
+        - {x: 34.125, y: -39.75}
+        - {x: 47.125, y: -20.75}
+        - {x: 47.125, y: 30.25}
+        - {x: 40.125, y: 56.25}
+      - - {x: -9.875, y: -18.75}
+        - {x: -28.875, y: 1.25}
+        - {x: -20.875, y: 29.25}
+        - {x: 23.125, y: 27.25}
+      - - {x: -7.875, y: 21.25}
+        - {x: -13.875, y: 13.25}
+        - {x: -13.875, y: -1.75}
+        - {x: -6.875, y: -4.75}
+        - {x: 9.125, y: -4.75}
+        - {x: 13.125, y: 1.25}
+        - {x: 13.125, y: 15.25}
+        - {x: 5.125, y: 21.25}
+    - name: radar189
+      rect:
+        serializedVersion: 2
+        x: 6769
+        y: 15621
+        width: 750
+        height: 762
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42257217}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31.125, y: 56}
+        - {x: -37.875, y: 56}
+        - {x: -46.875, y: 42}
+        - {x: -46.875, y: -29}
+        - {x: -28.875, y: -40}
+        - {x: 42.125, y: -40}
+        - {x: 47.125, y: -31}
+        - {x: 47.125, y: 48}
+      - - {x: -32.875, y: 1}
+        - {x: -4.875, y: 43}
+        - {x: 35.125, y: 3}
+        - {x: -5.875, y: -25}
+      - - {x: -13.875, y: 1}
+        - {x: -6.875, y: -6}
+        - {x: 5.125, y: -6}
+        - {x: 14.125, y: -1}
+        - {x: 14.125, y: 11}
+        - {x: 12.125, y: 16}
+        - {x: 9.125, y: 22}
+        - {x: -7.875, y: 22}
+        - {x: -13.875, y: 20}
+    - name: radar190
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 15619
+        width: 750
+        height: 764
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42277488}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.875, y: 55.75}
+        - {x: -46.875, y: -32.25}
+        - {x: -44.875, y: -40.25}
+        - {x: 21.125, y: -40.25}
+        - {x: 35.125, y: -37.25}
+        - {x: 47.125, y: -15.25}
+        - {x: 47.125, y: 43.75}
+        - {x: 25.125, y: 55.75}
+      - - {x: -33.875, y: -1.25}
+        - {x: -20.875, y: 36.75}
+        - {x: 13.125, y: 41.75}
+        - {x: 34.125, y: -2.25}
+      - - {x: -9.875, y: 22.75}
+        - {x: -14.875, y: 18.75}
+        - {x: -14.875, y: 0.75}
+        - {x: -10.875, y: -6.25}
+        - {x: 12.125, y: -6.25}
+        - {x: 14.125, y: 1.75}
+        - {x: 14.125, y: 16.75}
+        - {x: 9.125, y: 22.75}
+    - name: radar191
+      rect:
+        serializedVersion: 2
+        x: 5436
+        y: 9409
+        width: 223
+        height: 220
+      alignment: 9
+      pivot: {x: 0.50672644, y: 0.23181818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: radar192
+      rect:
+        serializedVersion: 2
+        x: 2629
+        y: 10592
+        width: 224
+        height: 228
+      alignment: 9
+      pivot: {x: 0.5223214, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: radar193
+      rect:
+        serializedVersion: 2
+        x: 7554
+        y: 6475
+        width: 241
+        height: 233
+      alignment: 9
+      pivot: {x: 0.5103735, y: 0.2360515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: radar194
+      rect:
+        serializedVersion: 2
+        x: 7286
+        y: 6224
+        width: 239
+        height: 249
+      alignment: 9
+      pivot: {x: 0.51882845, y: 0.26104417}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: radar195
+      rect:
+        serializedVersion: 2
+        x: 6056
+        y: 6352
+        width: 258
+        height: 257
+      alignment: 9
+      pivot: {x: 0.5116279, y: 0.27626458}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.875, y: 23.6875}
+        - {x: -16.875, y: 17.6875}
+        - {x: -16.875, y: -5.3125}
+        - {x: -11.875, y: -9.3125}
+        - {x: 10.125, y: -9.3125}
+        - {x: 16.125, y: -5.3125}
+        - {x: 16.125, y: 22.6875}
+        - {x: 15.125, y: 23.6875}
+    - name: radar196
+      rect:
+        serializedVersion: 2
+        x: 6775
+        y: 6475
+        width: 266
+        height: 265
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2792453}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.625, y: 24.6875}
+        - {x: -16.625, y: 22.6875}
+        - {x: -16.625, y: -0.3125}
+        - {x: -7.625, y: -9.3125}
+        - {x: 17.375, y: -9.3125}
+        - {x: 18.375, y: -5.3125}
+        - {x: 18.375, y: 23.6875}
+        - {x: 16.375, y: 24.6875}
+    - name: radar197
+      rect:
+        serializedVersion: 2
+        x: 6503
+        y: 6729
+        width: 270
+        height: 278
+      alignment: 9
+      pivot: {x: 0.5222222, y: 0.28417265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.375, y: 25.125}
+        - {x: -17.375, y: 15.125}
+        - {x: -17.375, y: -1.875}
+        - {x: -10.375, y: -9.875}
+        - {x: 11.625, y: -9.875}
+        - {x: 17.625, y: -3.875}
+        - {x: 17.625, y: 21.125}
+        - {x: 16.625, y: 25.125}
+    - name: radar198
+      rect:
+        serializedVersion: 2
+        x: 5632
+        y: 6980
+        width: 287
+        height: 278
+      alignment: 9
+      pivot: {x: 0.5087108, y: 0.2877698}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.3125, y: 25.875}
+        - {x: -18.3125, y: 20.875}
+        - {x: -18.3125, y: -2.125}
+        - {x: -14.3125, y: -10.125}
+        - {x: 13.6875, y: -10.125}
+        - {x: 17.6875, y: -3.125}
+        - {x: 17.6875, y: 20.875}
+        - {x: 13.6875, y: 25.875}
+    - name: radar199
+      rect:
+        serializedVersion: 2
+        x: 5632
+        y: 7260
+        width: 291
+        height: 289
+      alignment: 9
+      pivot: {x: 0.5017182, y: 0.28719723}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5625, y: 26.6875}
+        - {x: -18.5625, y: 20.6875}
+        - {x: -18.5625, y: -5.3125}
+        - {x: -17.5625, y: -10.3125}
+        - {x: 11.4375, y: -10.3125}
+        - {x: 18.4375, y: -4.3125}
+        - {x: 18.4375, y: 15.6875}
+        - {x: 14.4375, y: 26.6875}
+    - name: radar200
+      rect:
+        serializedVersion: 2
+        x: 5485
+        y: 6685
+        width: 297
+        height: 293
+      alignment: 9
+      pivot: {x: 0.5016835, y: 0.3003413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5625, y: 26.9375}
+        - {x: -11.4375, y: 26.9375}
+        - {x: -18.4375, y: 23.9375}
+        - {x: -18.4375, y: -2.0625}
+        - {x: -12.4375, y: -10.0625}
+        - {x: -10.4375, y: -11.0625}
+        - {x: 10.5625, y: -11.0625}
+        - {x: 13.5625, y: -10.0625}
+        - {x: 19.5625, y: -5.0625}
+        - {x: 19.5625, y: 19.9375}
+    - name: radar201
+      rect:
+        serializedVersion: 2
+        x: 5921
+        y: 6882
+        width: 308
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5032467, y: 0.30645162}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.5, y: 26.25}
+        - {x: 10.5, y: 27.25}
+        - {x: -10.5, y: 27.25}
+        - {x: -19.5, y: 21.25}
+        - {x: -19.5, y: -4.75}
+        - {x: -12.5, y: -11.75}
+        - {x: 10.5, y: -11.75}
+        - {x: 19.5, y: -2.75}
+        - {x: 19.5, y: 17.25}
+    - name: radar202
+      rect:
+        serializedVersion: 2
+        x: 5305
+        y: 7233
+        width: 325
+        height: 316
+      alignment: 9
+      pivot: {x: 0.4953846, y: 0.30379745}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.1875, y: 27.875}
+        - {x: -20.1875, y: 18.875}
+        - {x: -20.1875, y: -10.125}
+        - {x: -14.1875, y: -12.125}
+        - {x: 15.8125, y: -12.125}
+        - {x: 20.8125, y: -8.125}
+        - {x: 20.8125, y: 17.875}
+        - {x: 15.8125, y: 27.875}
+    - name: radar203
+      rect:
+        serializedVersion: 2
+        x: 4648
+        y: 7348
+        width: 328
+        height: 325
+      alignment: 9
+      pivot: {x: 0.5030488, y: 0.32307693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.375, y: 28.6875}
+        - {x: -12.625, y: 28.6875}
+        - {x: -20.625, y: 18.6875}
+        - {x: -20.625, y: -11.3125}
+        - {x: -13.625, y: -13.3125}
+        - {x: 15.375, y: -13.3125}
+        - {x: 19.375, y: -7.3125}
+        - {x: 20.375, y: -4.3125}
+        - {x: 20.375, y: 21.6875}
+    - name: radar204
+      rect:
+        serializedVersion: 2
+        x: 2498
+        y: 8964
+        width: 331
+        height: 334
+      alignment: 9
+      pivot: {x: 0.51057404, y: 0.3233533}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.1875, y: 29.375}
+        - {x: -20.1875, y: 25.375}
+        - {x: -21.1875, y: 21.375}
+        - {x: -21.1875, y: -9.625}
+        - {x: -13.1875, y: -13.625}
+        - {x: 14.8125, y: -13.625}
+        - {x: 20.8125, y: -7.625}
+        - {x: 20.8125, y: 19.375}
+        - {x: 11.8125, y: 29.375}
+    - name: radar205
+      rect:
+        serializedVersion: 2
+        x: 7836
+        y: 10048
+        width: 341
+        height: 353
+      alignment: 9
+      pivot: {x: 0.49853373, y: 0.3371105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.4375, y: 29.6875}
+        - {x: -21.4375, y: 25.6875}
+        - {x: -21.4375, y: -7.3125}
+        - {x: -17.4375, y: -15.3125}
+        - {x: 20.5625, y: -15.3125}
+        - {x: 22.5625, y: -9.3125}
+        - {x: 22.5625, y: 23.6875}
+        - {x: 14.5625, y: 29.6875}
+    - name: radar206
+      rect:
+        serializedVersion: 2
+        x: 7836
+        y: 10403
+        width: 354
+        height: 360
+      alignment: 9
+      pivot: {x: 0.5169492, y: 0.33888888}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.75, y: 30.625}
+        - {x: -22.75, y: 22.625}
+        - {x: -22.75, y: -8.375}
+        - {x: -21.75, y: -15.375}
+        - {x: 19.25, y: -15.375}
+        - {x: 22.25, y: -11.375}
+        - {x: 22.25, y: 30.625}
+    - name: radar207
+      rect:
+        serializedVersion: 2
+        x: 4190
+        y: 7253
+        width: 368
+        height: 366
+      alignment: 9
+      pivot: {x: 0.51086956, y: 0.33606556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.25, y: 31.625}
+        - {x: -22.25, y: 22.625}
+        - {x: -23.25, y: 21.625}
+        - {x: -23.25, y: -9.375}
+        - {x: -12.25, y: -15.375}
+        - {x: 18.75, y: -15.375}
+        - {x: 23.75, y: -12.375}
+        - {x: 23.75, y: 28.625}
+        - {x: 13.75, y: 31.625}
+    - name: radar208
+      rect:
+        serializedVersion: 2
+        x: 3809
+        y: 7592
+        width: 379
+        height: 379
+      alignment: 9
+      pivot: {x: 0.5039578, y: 0.34300792}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.0625, y: 31.4375}
+        - {x: -24.0625, y: -13.5625}
+        - {x: -15.0625, y: -16.5625}
+        - {x: 12.9375, y: -16.5625}
+        - {x: 23.9375, y: -6.5625}
+        - {x: 23.9375, y: 23.4375}
+        - {x: 14.9375, y: 31.4375}
+    - name: radar209
+      rect:
+        serializedVersion: 2
+        x: 7101
+        y: 6758
+        width: 383
+        height: 380
+      alignment: 9
+      pivot: {x: 0.5143603, y: 0.3394737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5625, y: 32.875}
+        - {x: -22.5625, y: 26.875}
+        - {x: -24.5625, y: 16.875}
+        - {x: -24.5625, y: -7.125}
+        - {x: -17.5625, y: -16.125}
+        - {x: 19.4375, y: -16.125}
+        - {x: 24.4375, y: -9.125}
+        - {x: 24.4375, y: 22.875}
+        - {x: 21.4375, y: 32.875}
+    - name: radar210
+      rect:
+        serializedVersion: 2
+        x: 6323
+        y: 7150
+        width: 391
+        height: 396
+      alignment: 9
+      pivot: {x: 0.49872124, y: 0.34848484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.4375, y: 33.75}
+        - {x: -10.5625, y: 33.75}
+        - {x: -24.5625, y: 22.75}
+        - {x: -24.5625, y: -8.25}
+        - {x: -21.5625, y: -17.25}
+        - {x: 11.4375, y: -17.25}
+        - {x: 25.4375, y: -8.25}
+        - {x: 25.4375, y: 20.75}
+        - {x: 15.4375, y: 32.75}
+    - name: radar211
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 7548
+        width: 406
+        height: 401
+      alignment: 9
+      pivot: {x: 0.50246304, y: 0.35162094}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.625, y: 33.4375}
+        - {x: -25.625, y: 21.4375}
+        - {x: -25.625, y: -4.5625}
+        - {x: -14.625, y: -17.5625}
+        - {x: 14.375, y: -17.5625}
+        - {x: 25.375, y: -11.5625}
+        - {x: 25.375, y: 25.4375}
+        - {x: 21.375, y: 33.4375}
+    - name: radar212
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 7368
+        width: 415
+        height: 414
+      alignment: 9
+      pivot: {x: 0.5036145, y: 0.35507247}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.062502, y: 33.5}
+        - {x: -26.062502, y: 31.5}
+        - {x: -26.062502, y: -9.5}
+        - {x: -22.062502, y: -18.5}
+        - {x: 21.937498, y: -18.5}
+        - {x: 25.937498, y: -6.5}
+        - {x: 25.937498, y: 26.5}
+        - {x: 21.937498, y: 33.5}
+    - name: radar213
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 7485
+        width: 420
+        height: 424
+      alignment: 9
+      pivot: {x: 0.50476193, y: 0.3561321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.625, y: 35.25}
+        - {x: -26.625, y: 25.25}
+        - {x: -26.625, y: -10.75}
+        - {x: -17.625, y: -18.75}
+        - {x: 10.375, y: -18.75}
+        - {x: 16.375, y: -17.75}
+        - {x: 26.375, y: -8.75}
+        - {x: 26.375, y: 20.25}
+        - {x: 20.375, y: 35.25}
+    - name: radar214
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 7793
+        width: 432
+        height: 433
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35796767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.375, y: 34.3125}
+        - {x: 10.375, y: 35.3125}
+        - {x: -15.625, y: 35.3125}
+        - {x: -26.625, y: 28.3125}
+        - {x: -26.625, y: -19.6875}
+        - {x: 17.375, y: -19.6875}
+        - {x: 28.375, y: -10.6875}
+        - {x: 28.375, y: 23.3125}
+    - name: radar215
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 7948
+        width: 442
+        height: 438
+      alignment: 9
+      pivot: {x: 0.49773756, y: 0.369863}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.875, y: 35.625}
+        - {x: -27.875, y: 24.625}
+        - {x: -27.875, y: -15.375}
+        - {x: -20.875, y: -20.375}
+        - {x: 16.125, y: -20.375}
+        - {x: 21.125, y: -19.375}
+        - {x: 28.125, y: -11.375}
+        - {x: 28.125, y: 19.625}
+        - {x: 20.125, y: 35.625}
+    - name: radar216
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 7911
+        width: 455
+        height: 447
+      alignment: 9
+      pivot: {x: 0.50109893, y: 0.3691275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.6875, y: 36.6875}
+        - {x: -9.3125, y: 36.6875}
+        - {x: -16.3125, y: 33.6875}
+        - {x: -24.3125, y: 25.6875}
+        - {x: -28.3125, y: 17.6875}
+        - {x: -28.3125, y: -3.3125}
+        - {x: -25.3125, y: -20.3125}
+        - {x: 29.6875, y: -20.3125}
+        - {x: 29.6875, y: 24.6875}
+        - {x: 17.6875, y: 33.6875}
+    - name: radar217
+      rect:
+        serializedVersion: 2
+        x: 3809
+        y: 7973
+        width: 456
+        height: 462
+      alignment: 9
+      pivot: {x: 0.50877196, y: 0.37445888}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.625, y: 37.375}
+        - {x: -15.375, y: 37.375}
+        - {x: -29.375, y: 31.375}
+        - {x: -29.375, y: -9.625}
+        - {x: -22.375, y: -21.625}
+        - {x: 18.625, y: -21.625}
+        - {x: 28.625, y: -15.625}
+        - {x: 28.625, y: 20.375}
+        - {x: 24.625, y: 27.375}
+    - name: radar218
+      rect:
+        serializedVersion: 2
+        x: 5463
+        y: 7551
+        width: 465
+        height: 468
+      alignment: 9
+      pivot: {x: 0.5075269, y: 0.37393162}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.0625, y: 38.25}
+        - {x: -29.0625, y: 27.25}
+        - {x: -29.0625, y: -20.75}
+        - {x: -27.0625, y: -21.75}
+        - {x: 25.9375, y: -21.75}
+        - {x: 29.9375, y: -13.75}
+        - {x: 29.9375, y: 32.25}
+        - {x: 21.9375, y: 38.25}
+    - name: radar219
+      rect:
+        serializedVersion: 2
+        x: 3322
+        y: 7961
+        width: 485
+        height: 479
+      alignment: 9
+      pivot: {x: 0.5051546, y: 0.37787056}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5625, y: 37.4375}
+        - {x: -30.5625, y: 24.4375}
+        - {x: -30.5625, y: -9.5625}
+        - {x: -18.5625, y: -22.5625}
+        - {x: 18.4375, y: -22.5625}
+        - {x: 30.4375, y: -6.5625}
+        - {x: 30.4375, y: 20.4375}
+        - {x: 23.4375, y: 37.4375}
+    - name: radar220
+      rect:
+        serializedVersion: 2
+        x: 5996
+        y: 7592
+        width: 482
+        height: 485
+      alignment: 9
+      pivot: {x: 0.5062241, y: 0.37525773}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.375, y: 38.0625}
+        - {x: -21.375, y: 36.0625}
+        - {x: -30.375, y: 22.0625}
+        - {x: -30.375, y: -4.9375}
+        - {x: -25.375, y: -20.9375}
+        - {x: -18.375, y: -22.9375}
+        - {x: 19.625, y: -22.9375}
+        - {x: 30.625, y: -12.9375}
+        - {x: 30.625, y: 23.0625}
+        - {x: 24.625, y: 38.0625}
+    - name: radar221
+      rect:
+        serializedVersion: 2
+        x: 2828
+        y: 8388
+        width: 492
+        height: 500
+      alignment: 9
+      pivot: {x: 0.50609756, y: 0.376}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.875, y: 39.75}
+        - {x: -17.875, y: 35.75}
+        - {x: -27.875, y: 26.75}
+        - {x: -30.875, y: 17.75}
+        - {x: -30.875, y: -13.25}
+        - {x: -23.875, y: -23.25}
+        - {x: 22.125, y: -23.25}
+        - {x: 31.125, y: -18.25}
+        - {x: 31.125, y: 28.75}
+        - {x: 18.125, y: 39.75}
+    - name: radar222
+      rect:
+        serializedVersion: 2
+        x: 3983
+        y: 8437
+        width: 507
+        height: 510
+      alignment: 9
+      pivot: {x: 0.5009862, y: 0.38627452}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.6875, y: 40.375}
+        - {x: -31.6875, y: 22.375}
+        - {x: -31.6875, y: -17.625}
+        - {x: -27.6875, y: -24.625}
+        - {x: 28.3125, y: -24.625}
+        - {x: 33.3125, y: -11.625}
+        - {x: 33.3125, y: 27.375}
+        - {x: 17.3125, y: 40.375}
+    - name: radar223
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 8944
+        width: 513
+        height: 514
+      alignment: 9
+      pivot: {x: 0.50097466, y: 0.38715953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.0625, y: 39.75}
+        - {x: -32.0625, y: 38.75}
+        - {x: -32.0625, y: -23.25}
+        - {x: -29.0625, y: -25.25}
+        - {x: 23.9375, y: -25.25}
+        - {x: 32.9375, y: -22.25}
+        - {x: 32.9375, y: 36.75}
+        - {x: 19.9375, y: 39.75}
+    - name: radar224
+      rect:
+        serializedVersion: 2
+        x: 6652
+        y: 7951
+        width: 524
+        height: 524
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.38358778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.25, y: 42}
+        - {x: -32.25, y: 26}
+        - {x: -32.25, y: -9}
+        - {x: -18.25, y: -25}
+        - {x: 21.75, y: -25}
+        - {x: 23.75, y: -24}
+        - {x: 33.75, y: -11}
+        - {x: 33.75, y: 25}
+        - {x: 27.75, y: 42}
+    - name: radar225
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 9460
+        width: 531
+        height: 543
+      alignment: 9
+      pivot: {x: 0.49717513, y: 0.3922652}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.8125, y: 42.3125}
+        - {x: -32.8125, y: 27.3125}
+        - {x: -32.8125, y: -6.6875}
+        - {x: -26.8125, y: -23.6875}
+        - {x: -15.8125, y: -26.6875}
+        - {x: 17.1875, y: -26.6875}
+        - {x: 34.1875, y: -15.6875}
+        - {x: 34.1875, y: 25.3125}
+        - {x: 21.1875, y: 42.3125}
+    - name: radar226
+      rect:
+        serializedVersion: 2
+        x: 7205
+        y: 8599
+        width: 547
+        height: 545
+      alignment: 9
+      pivot: {x: 0.49725777, y: 0.39449543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.6875, y: 42.5625}
+        - {x: -33.6875, y: 37.5625}
+        - {x: -33.6875, y: -9.4375}
+        - {x: -27.6875, y: -26.4375}
+        - {x: 20.3125, y: -26.4375}
+        - {x: 35.3125, y: -11.4375}
+        - {x: 35.3125, y: 39.5625}
+        - {x: 34.3125, y: 42.5625}
+    - name: radar227
+      rect:
+        serializedVersion: 2
+        x: 6653
+        y: 8477
+        width: 546
+        height: 552
+      alignment: 9
+      pivot: {x: 0.50549453, y: 0.39311594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.25, y: 43}
+        - {x: -34.25, y: 34}
+        - {x: -34.25, y: -12}
+        - {x: -25.25, y: -27}
+        - {x: 21.75, y: -27}
+        - {x: 34.75, y: -23}
+        - {x: 34.75, y: 26}
+        - {x: 22.75, y: 43}
+    - name: radar228
+      rect:
+        serializedVersion: 2
+        x: 7223
+        y: 9146
+        width: 560
+        height: 559
+      alignment: 9
+      pivot: {x: 0.5017857, y: 0.39892665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.75, y: 42.8125}
+        - {x: -34.75, y: 28.8125}
+        - {x: -34.75, y: -22.1875}
+        - {x: -22.75, y: -28.1875}
+        - {x: 35.25, y: -28.1875}
+        - {x: 36.25, y: -25.1875}
+        - {x: 36.25, y: 39.8125}
+        - {x: 26.25, y: 42.8125}
+    - name: radar229
+      rect:
+        serializedVersion: 2
+        x: 6684
+        y: 10139
+        width: 567
+        height: 569
+      alignment: 9
+      pivot: {x: 0.49559084, y: 0.39367312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.1875, y: 43.9375}
+        - {x: -35.1875, y: 39.9375}
+        - {x: -35.1875, y: -13.0625}
+        - {x: -27.1875, y: -28.0625}
+        - {x: 21.8125, y: -28.0625}
+        - {x: 36.8125, y: -19.0625}
+        - {x: 36.8125, y: 41.9375}
+        - {x: 28.8125, y: 43.9375}
+    - name: radar230
+      rect:
+        serializedVersion: 2
+        x: 5745
+        y: 10135
+        width: 581
+        height: 578
+      alignment: 9
+      pivot: {x: 0.5008606, y: 0.3979239}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.4375, y: 45.25}
+        - {x: -36.4375, y: 24.25}
+        - {x: -36.4375, y: -25.75}
+        - {x: -29.4375, y: -28.75}
+        - {x: 35.5625, y: -28.75}
+        - {x: 36.5625, y: -27.75}
+        - {x: 36.5625, y: 44.25}
+        - {x: 29.5625, y: 45.25}
+    - name: radar231
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 8210
+        width: 587
+        height: 585
+      alignment: 9
+      pivot: {x: 0.5025554, y: 0.4051282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.0625, y: 44.1875}
+        - {x: -31.0625, y: 43.1875}
+        - {x: -37.0625, y: 31.1875}
+        - {x: -37.0625, y: -15.8125}
+        - {x: -23.0625, y: -29.8125}
+        - {x: 16.9375, y: -29.8125}
+        - {x: 36.9375, y: -21.8125}
+        - {x: 36.9375, y: 27.1875}
+        - {x: 21.9375, y: 44.1875}
+    - name: radar232
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 8797
+        width: 591
+        height: 595
+      alignment: 9
+      pivot: {x: 0.49746192, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.6875, y: 45.5625}
+        - {x: -36.6875, y: 33.5625}
+        - {x: -36.6875, y: -21.4375}
+        - {x: -34.6875, y: -29.4375}
+        - {x: 37.3125, y: -29.4375}
+        - {x: 37.3125, y: 33.5625}
+        - {x: 22.3125, y: 45.5625}
+    - name: radar233
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 9397
+        width: 608
+        height: 606
+      alignment: 9
+      pivot: {x: 0.49506578, y: 0.4009901}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.375, y: 46.625}
+        - {x: -22.625, y: 46.625}
+        - {x: -37.625, y: 30.625}
+        - {x: -37.625, y: -9.375}
+        - {x: -24.625, y: -30.375}
+        - {x: 31.375, y: -30.375}
+        - {x: 38.375, y: -11.375}
+        - {x: 38.375, y: 36.625}
+        - {x: 37.375, y: 39.625}
+    - name: radar234
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 9417
+        width: 612
+        height: 609
+      alignment: 9
+      pivot: {x: 0.503268, y: 0.4039409}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.25, y: 45.9375}
+        - {x: -35.25, y: 35.9375}
+        - {x: -38.25, y: 28.9375}
+        - {x: -38.25, y: -22.0625}
+        - {x: -22.25, y: -31.0625}
+        - {x: 28.75, y: -31.0625}
+        - {x: 38.75, y: -19.0625}
+        - {x: 38.75, y: 41.9375}
+        - {x: 23.75, y: 45.9375}
+    - name: radar235
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 10028
+        width: 621
+        height: 613
+      alignment: 9
+      pivot: {x: 0.50080514, y: 0.4045677}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.8125, y: 46.8125}
+        - {x: -38.8125, y: 42.8125}
+        - {x: -38.8125, y: -30.1875}
+        - {x: -34.8125, y: -31.1875}
+        - {x: 31.1875, y: -31.1875}
+        - {x: 39.1875, y: -11.1875}
+        - {x: 39.1875, y: 29.8125}
+        - {x: 21.1875, y: 46.8125}
+    - name: radar236
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 10005
+        width: 624
+        height: 627
+      alignment: 9
+      pivot: {x: 0.49839744, y: 0.40669855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.875, y: 47.4375}
+        - {x: -37.875, y: 36.4375}
+        - {x: -38.875, y: 32.4375}
+        - {x: -38.875, y: -26.5625}
+        - {x: -23.875, y: -31.5625}
+        - {x: 30.125, y: -31.5625}
+        - {x: 40.125, y: -17.5625}
+        - {x: 40.125, y: 37.4375}
+        - {x: 21.125, y: 47.4375}
+    - name: radar237
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 10643
+        width: 632
+        height: 637
+      alignment: 9
+      pivot: {x: 0.49525318, y: 0.40973312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.25, y: 47.5625}
+        - {x: -39.25, y: 41.5625}
+        - {x: -39.25, y: -15.4375}
+        - {x: -24.25, y: -32.4375}
+        - {x: 26.75, y: -32.4375}
+        - {x: 40.75, y: -21.4375}
+        - {x: 40.75, y: 30.5625}
+        - {x: 29.75, y: 47.5625}
+    - name: radar238
+      rect:
+        serializedVersion: 2
+        x: 2863
+        y: 10642
+        width: 643
+        height: 639
+      alignment: 9
+      pivot: {x: 0.503888, y: 0.40688577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.4375, y: 48.1875}
+        - {x: -40.4375, y: 41.1875}
+        - {x: -40.4375, y: -12.8125}
+        - {x: -24.4375, y: -32.8125}
+        - {x: 30.5625, y: -32.8125}
+        - {x: 41.5625, y: -14.8125}
+        - {x: 41.5625, y: 42.1875}
+        - {x: 35.5625, y: 48.1875}
+    - name: radar239
+      rect:
+        serializedVersion: 2
+        x: 5094
+        y: 10646
+        width: 649
+        height: 647
+      alignment: 9
+      pivot: {x: 0.5007704, y: 0.4064915}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.3125, y: 49.3125}
+        - {x: -39.3125, y: 37.3125}
+        - {x: -40.3125, y: 30.3125}
+        - {x: -40.3125, y: -13.6875}
+        - {x: -22.3125, y: -29.6875}
+        - {x: -12.3125, y: -32.6875}
+        - {x: 18.6875, y: -32.6875}
+        - {x: 41.6875, y: -20.6875}
+        - {x: 41.6875, y: 42.3125}
+        - {x: 23.6875, y: 49.3125}
+    - name: radar240
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 11260
+        width: 658
+        height: 661
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41149774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.875, y: 49.8125}
+        - {x: -28.125, y: 49.8125}
+        - {x: -41.125, y: 28.8125}
+        - {x: -41.125, y: -19.1875}
+        - {x: -23.125, y: -34.1875}
+        - {x: 36.875, y: -34.1875}
+        - {x: 42.875, y: -14.1875}
+        - {x: 42.875, y: 35.8125}
+        - {x: 23.875, y: 46.8125}
+    - name: radar241
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 11946
+        width: 664
+        height: 661
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41149774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.625, y: 49.0625}
+        - {x: -41.625, y: 38.0625}
+        - {x: -41.625, y: -9.9375}
+        - {x: -37.625, y: -19.9375}
+        - {x: -22.625, y: -33.9375}
+        - {x: 22.375, y: -33.9375}
+        - {x: 42.375, y: -24.9375}
+        - {x: 42.375, y: 45.0625}
+        - {x: 30.375, y: 49.0625}
+    - name: radar242
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 11936
+        width: 672
+        height: 671
+      alignment: 9
+      pivot: {x: 0.4985119, y: 0.4128167}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.75, y: 48.3125}
+        - {x: 13.75, y: 49.3125}
+        - {x: -26.25, y: 49.3125}
+        - {x: -42.25, y: 37.3125}
+        - {x: -42.25, y: -17.6875}
+        - {x: -25.25, y: -34.6875}
+        - {x: 24.75, y: -34.6875}
+        - {x: 42.75, y: -15.6875}
+        - {x: 42.75, y: 22.3125}
+        - {x: 37.75, y: 39.3125}
+    - name: radar243
+      rect:
+        serializedVersion: 2
+        x: 6685
+        y: 11290
+        width: 677
+        height: 678
+      alignment: 9
+      pivot: {x: 0.49926144, y: 0.41297936}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.3125, y: 50.125}
+        - {x: -42.3125, y: 44.125}
+        - {x: -42.3125, y: -13.875}
+        - {x: -22.3125, y: -34.875}
+        - {x: 22.6875, y: -34.875}
+        - {x: 43.6875, y: -18.875}
+        - {x: 43.6875, y: 32.125}
+        - {x: 25.6875, y: 50.125}
+    - name: radar244
+      rect:
+        serializedVersion: 2
+        x: 2179
+        y: 11282
+        width: 682
+        height: 684
+      alignment: 9
+      pivot: {x: 0.49706745, y: 0.4122807}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.375, y: 50.75}
+        - {x: -42.375, y: -32.25}
+        - {x: -38.375, y: -35.25}
+        - {x: 25.625, y: -35.25}
+        - {x: 43.625, y: -25.25}
+        - {x: 43.625, y: 50.75}
+    - name: radar245
+      rect:
+        serializedVersion: 2
+        x: 4402
+        y: 11290
+        width: 690
+        height: 685
+      alignment: 9
+      pivot: {x: 0.4985507, y: 0.41459855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42.875, y: 50.5625}
+        - {x: -43.125, y: 50.5625}
+        - {x: -43.125, y: -26.4375}
+        - {x: -26.125, y: -35.4375}
+        - {x: 30.875, y: -35.4375}
+        - {x: 43.875, y: -13.4375}
+        - {x: 43.875, y: 47.5625}
+    - name: radar246
+      rect:
+        serializedVersion: 2
+        x: 2957
+        y: 11969
+        width: 697
+        height: 689
+      alignment: 9
+      pivot: {x: 0.5035868, y: 0.4107402}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.6875, y: 51.3125}
+        - {x: -43.6875, y: 24.3125}
+        - {x: -43.6875, y: -27.6875}
+        - {x: -35.6875, y: -35.6875}
+        - {x: 27.3125, y: -35.6875}
+        - {x: 44.3125, y: -26.6875}
+        - {x: 44.3125, y: 29.3125}
+        - {x: 21.3125, y: 51.3125}
+    - name: radar247
+      rect:
+        serializedVersion: 2
+        x: 5207
+        y: 11975
+        width: 699
+        height: 702
+      alignment: 9
+      pivot: {x: 0.5007153, y: 0.4159544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.6875, y: 52.75}
+        - {x: -43.6875, y: 48.75}
+        - {x: -43.6875, y: -16.25}
+        - {x: -32.6875, y: -36.25}
+        - {x: 19.3125, y: -36.25}
+        - {x: 45.3125, y: -25.25}
+        - {x: 45.3125, y: 52.75}
+    - name: radar248
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 12655
+        width: 711
+        height: 704
+      alignment: 9
+      pivot: {x: 0.49929675, y: 0.4190341}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.4375, y: 52.5}
+        - {x: -44.4375, y: 31.5}
+        - {x: -44.4375, y: -12.5}
+        - {x: -29.4375, y: -36.5}
+        - {x: 30.5625, y: -36.5}
+        - {x: 45.5625, y: -31.5}
+        - {x: 45.5625, y: 47.5}
+        - {x: 44.5625, y: 52.5}
+    - name: radar249
+      rect:
+        serializedVersion: 2
+        x: 4491
+        y: 12668
+        width: 714
+        height: 713
+      alignment: 9
+      pivot: {x: 0.49859944, y: 0.41795233}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 52.8125}
+        - {x: -44.5, y: 30.8125}
+        - {x: -44.5, y: -21.1875}
+        - {x: -30.5, y: -37.1875}
+        - {x: 23.5, y: -37.1875}
+        - {x: 45.5, y: -26.1875}
+        - {x: 45.5, y: 34.8125}
+        - {x: 25.5, y: 52.8125}
+    - name: radar250
+      rect:
+        serializedVersion: 2
+        x: 5983
+        y: 12683
+        width: 721
+        height: 716
+      alignment: 9
+      pivot: {x: 0.49791956, y: 0.41899443}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.4375, y: 52.625}
+        - {x: -44.4375, y: 37.625}
+        - {x: -44.4375, y: -21.375}
+        - {x: -22.4375, y: -37.375}
+        - {x: 39.5625, y: -37.375}
+        - {x: 46.5625, y: -15.375}
+        - {x: 46.5625, y: 39.625}
+        - {x: 31.5625, y: 52.625}
+    - name: radar251
+      rect:
+        serializedVersion: 2
+        x: 6713
+        y: 12674
+        width: 727
+        height: 728
+      alignment: 9
+      pivot: {x: 0.4965612, y: 0.42032966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.9375, y: 53.5}
+        - {x: -26.0625, y: 53.5}
+        - {x: -45.0625, y: 44.5}
+        - {x: -45.0625, y: -33.5}
+        - {x: -31.0625, y: -38.5}
+        - {x: 38.9375, y: -38.5}
+        - {x: 45.9375, y: -25.5}
+        - {x: 45.9375, y: 26.5}
+        - {x: 40.9375, y: 44.5}
+    - name: radar252
+      rect:
+        serializedVersion: 2
+        x: 5983
+        y: 13401
+        width: 728
+        height: 732
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4180328}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.125, y: 53.625}
+        - {x: -44.125, y: 41.625}
+        - {x: -45.125, y: 31.625}
+        - {x: -45.125, y: -18.375}
+        - {x: -31.125, y: -38.375}
+        - {x: 39.875, y: -38.375}
+        - {x: 46.875, y: -17.375}
+        - {x: 46.875, y: 39.625}
+        - {x: 22.875, y: 53.625}
+    - name: radar253
+      rect:
+        serializedVersion: 2
+        x: 4513
+        y: 13383
+        width: 732
+        height: 735
+      alignment: 9
+      pivot: {x: 0.49726775, y: 0.41904762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46.375, y: -38.1875}
+        - {x: 45.375, y: -35.1875}
+        - {x: 41.375, y: -35.1875}
+        - {x: 40.375, y: -38.1875}
+      - - {x: -38.625, y: 54.8125}
+        - {x: -45.625, y: 31.8125}
+        - {x: -45.625, y: -17.1875}
+        - {x: -35.625, y: -38.1875}
+        - {x: 38.375, y: -38.1875}
+        - {x: 46.375, y: -27.1875}
+        - {x: 46.375, y: 32.8125}
+        - {x: 37.375, y: 54.8125}
+    - name: radar254
+      rect:
+        serializedVersion: 2
+        x: 6001
+        y: 14135
+        width: 734
+        height: 735
+      alignment: 9
+      pivot: {x: 0.4972752, y: 0.42040816}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.625, y: 54.6875}
+        - {x: -45.625, y: 43.6875}
+        - {x: -45.625, y: -28.3125}
+        - {x: -26.625, y: -38.3125}
+        - {x: 29.375, y: -38.3125}
+        - {x: 46.375, y: -18.3125}
+        - {x: 46.375, y: 44.6875}
+        - {x: 39.375, y: 54.6875}
+    - name: radar255
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 13361
+        width: 742
+        height: 743
+      alignment: 9
+      pivot: {x: 0.49865228, y: 0.41991925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.125, y: 54.0625}
+        - {x: -46.125, y: 39.0625}
+        - {x: -46.125, y: -32.9375}
+        - {x: -38.125, y: -38.9375}
+        - {x: 24.875, y: -38.9375}
+        - {x: 46.875, y: -29.9375}
+        - {x: 46.875, y: 35.0625}
+        - {x: 25.875, y: 54.0625}
+    - name: radar256
+      rect:
+        serializedVersion: 2
+        x: 6749
+        y: 14872
+        width: 740
+        height: 747
+      alignment: 9
+      pivot: {x: 0.50135136, y: 0.42034805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 54.4375}
+        - {x: -46.5, y: 42.4375}
+        - {x: -46.5, y: -21.5625}
+        - {x: -28.5, y: -39.5625}
+        - {x: 27.5, y: -39.5625}
+        - {x: 47.5, y: -28.5625}
+        - {x: 47.5, y: 36.4375}
+        - {x: 30.5, y: 54.4375}
+      - - {x: 44.5, y: 39.4375}
+        - {x: 46.5, y: 37.4375}
+        - {x: 47.5, y: 37.4375}
+        - {x: 47.5, y: 42.4375}
+        - {x: 45.5, y: 42.4375}
+      - - {x: 44.5, y: 51.4375}
+        - {x: 46.5, y: 49.4375}
+        - {x: 47.5, y: 49.4375}
+        - {x: 47.5, y: 54.4375}
+        - {x: 45.5, y: 54.4375}
+    - name: radar257
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 12609
+        width: 741
+        height: 750
+      alignment: 9
+      pivot: {x: 0.5006748, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5625, y: 54.625}
+        - {x: -46.5625, y: 38.625}
+        - {x: -46.5625, y: -27.375}
+        - {x: -43.5625, y: -39.375}
+        - {x: 46.4375, y: -39.375}
+        - {x: 46.4375, y: 50.625}
+        - {x: 36.4375, y: 54.625}
+    - name: radar258
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 14106
+        width: 749
+        height: 749
+      alignment: 9
+      pivot: {x: 0.49933246, y: 0.42189586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.9375, y: 54.5625}
+        - {x: -45.9375, y: 41.5625}
+        - {x: -46.9375, y: 38.5625}
+        - {x: -46.9375, y: -35.4375}
+        - {x: -40.9375, y: -39.4375}
+        - {x: 39.0625, y: -39.4375}
+        - {x: 47.0625, y: -27.4375}
+        - {x: 47.0625, y: 47.5625}
+        - {x: 26.0625, y: 54.5625}
+    - name: radar259
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 13362
+        width: 746
+        height: 753
+      alignment: 9
+      pivot: {x: 0.49865952, y: 0.41965473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.75, y: 55.3125}
+        - {x: -46.75, y: 47.3125}
+        - {x: -46.75, y: -17.6875}
+        - {x: -39.75, y: -39.6875}
+        - {x: 47.25, y: -39.6875}
+        - {x: 47.25, y: 55.3125}
+    - name: radar260
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 14861
+        width: 750
+        height: 756
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41931218}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.875, y: 56.25}
+        - {x: -33.875, y: 50.25}
+        - {x: -46.875, y: 38.25}
+        - {x: -46.875, y: -16.75}
+        - {x: -38.875, y: -39.75}
+        - {x: 27.125, y: -39.75}
+        - {x: 47.125, y: -26.75}
+        - {x: 47.125, y: 40.25}
+        - {x: 24.125, y: 56.25}
+    - name: radar261
+      rect:
+        serializedVersion: 2
+        x: 3009
+        y: 14100
+        width: 750
+        height: 758
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41952506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.875, y: 56.125}
+        - {x: -46.875, y: 34.125}
+        - {x: -46.875, y: -23.875}
+        - {x: -34.875, y: -33.875}
+        - {x: -24.875, y: -39.875}
+        - {x: 38.125, y: -39.875}
+        - {x: 47.125, y: -15.875}
+        - {x: 47.125, y: 44.125}
+        - {x: 27.125, y: 56.125}
+    - name: radar262
+      rect:
+        serializedVersion: 2
+        x: 3761
+        y: 15620
+        width: 750
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42201835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.875, y: 55.9375}
+        - {x: -46.875, y: 42.9375}
+        - {x: -46.875, y: -20.0625}
+        - {x: -36.875, y: -40.0625}
+        - {x: 47.125, y: -40.0625}
+        - {x: 47.125, y: 50.9375}
+        - {x: 35.125, y: 55.9375}
+    - name: radar263
+      rect:
+        serializedVersion: 2
+        x: 4513
+        y: 14857
+        width: 750
+        height: 762
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4199475}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.875, y: 55.75}
+        - {x: -46.875, y: 43.75}
+        - {x: -46.875, y: -32.25}
+        - {x: -32.875, y: -40.25}
+        - {x: 35.125, y: -40.25}
+        - {x: 47.125, y: -20.25}
+        - {x: 47.125, y: 51.75}
+        - {x: 29.125, y: 55.75}
+      - - {x: -8.875, y: -20.25}
+        - {x: -27.875, y: 12.75}
+        - {x: 17.125, y: 31.75}
+        - {x: 17.125, y: -17.25}
+    - name: radar264
+      rect:
+        serializedVersion: 2
+        x: 2257
+        y: 14857
+        width: 750
+        height: 761
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4218134}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.875, y: 55.5625}
+        - {x: -46.875, y: 54.5625}
+        - {x: -46.875, y: -36.4375}
+        - {x: -34.875, y: -40.4375}
+        - {x: 29.125, y: -40.4375}
+        - {x: 47.125, y: -24.4375}
+        - {x: 47.125, y: 34.5625}
+        - {x: 30.125, y: 55.5625}
+      - - {x: -34.875, y: -0.4375}
+        - {x: -19.875, y: 36.5625}
+        - {x: 14.125, y: 40.5625}
+        - {x: 20.125, y: -22.4375}
+    - name: radar265
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 15619
+        width: 750
+        height: 764
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42277488}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.875, y: 55.75}
+        - {x: -46.875, y: -32.25}
+        - {x: -44.875, y: -40.25}
+        - {x: 21.125, y: -40.25}
+        - {x: 35.125, y: -37.25}
+        - {x: 47.125, y: -15.25}
+        - {x: 47.125, y: 43.75}
+        - {x: 25.125, y: 55.75}
+      - - {x: -33.875, y: -1.25}
+        - {x: -20.875, y: 36.75}
+        - {x: 13.125, y: 41.75}
+        - {x: 34.125, y: -2.25}
+    - name: radar266
+      rect:
+        serializedVersion: 2
+        x: 8190
+        y: 16372
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 375, y: -666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: radar267
+      rect:
+        serializedVersion: 2
+        x: 8187
+        y: 16369
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 375, y: -666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: radar268
+      rect:
+        serializedVersion: 2
+        x: 8190
+        y: 16369
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 375, y: -666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: radar269
+      rect:
+        serializedVersion: 2
+        x: 8187
+        y: 16366
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 375, y: -666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: radar270
+      rect:
+        serializedVersion: 2
+        x: 8190
+        y: 16366
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 375, y: -666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

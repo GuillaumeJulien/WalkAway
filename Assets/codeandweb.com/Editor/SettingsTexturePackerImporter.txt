@@ -2,20 +2,26 @@ version: 2
 importPivots: 1
 tpsheetFileNames:
 - Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
+- Assets/Scripts/Sprite.tpsheet
 - Assets/Sprite/anime-viseur-0.tpsheet
 - Assets/Sprite/AnimPopin.tpsheet
 - Assets/Sprite/calque.tpsheet
+- Assets/Sprite/Sonar-0.tpsheet
 - Assets/Sprite/Sprite1-1-1.tpsheet
 - Assets/Sprite/viseur.tpsheet
 textureFileNames:
 - Assets/codeandweb.com/Example/SpriteSheet/sprites.png
+- Assets/Scripts/Sprite.png
 - Assets/Sprite/anime-viseur-0.png
 - Assets/Sprite/AnimPopin.png
 - Assets/Sprite/calque.png
+- Assets/Sprite/Sonar-0.png
 - Assets/Sprite/Sprite1-1-1.png
 - Assets/Sprite/viseur.png
 normalmapFileNames:
 - Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
+- 
+- 
 - 
 - 
 - 
