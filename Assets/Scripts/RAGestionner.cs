@@ -11,7 +11,6 @@ public class RAGestionner : MonoBehaviour {
 
     private Text mTextInfo;
     private ObjetRa mObjetRa;
-    private Viseur mViseur;
     private bool mpressure;
     private double mPressureTime;
     private GameObject mTextGameobjet;
@@ -19,16 +18,15 @@ public class RAGestionner : MonoBehaviour {
     private Animator animateDetect;
     private Animator animatePopin;
     private string mObjetRaInfo;
-
+    private Animator mAnimViseur;
     // Use this for initialization
     void Start () {
 
         animateDetect = animatorDetect.GetComponent<Animator>();
         animatePopin = popinDetect.GetComponent<Animator>();
         mObjetRa = GetComponent<ObjetRa>();
-        mViseur = imageUi.GetComponent<Viseur>();
+        mAnimViseur = imageUi.GetComponent<Animator>();
         mTextInfo = infoTarget.GetComponentInChildren<Text>();
-        mViseur.SensRotate = -15;
         mBackgroundInfo = infoTarget.GetComponent<Image>();
         mObjetRaInfo = mObjetRa.TextDescription;
         mTextInfo.text = mObjetRaInfo;
@@ -48,24 +46,23 @@ public class RAGestionner : MonoBehaviour {
     void OnMouseDown()
     {
 
-        mViseur.SensRotate = 675;
         mpressure = true;
-
+        mAnimViseur.SetBool("Press", true);
     }
     void OnMouseUp()
     {
-        mViseur.SensRotate = -15;
         mpressure = false;
+        mAnimViseur.SetBool("Press", false);
         StopAllCoroutines();
         if (mObjetRa.IsAnalized)
         {
+            
             StartCoroutine(FadeOutUI());
         }
     }
     IEnumerator AnlizeObject()
     {
         yield return new WaitForSeconds(0.5f);
-        mViseur.StopRotate();
         mObjetRa.IsAnalized = true;
         
     }

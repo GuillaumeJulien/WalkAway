@@ -9,6 +9,7 @@ tpsheetFileNames:
 - Assets/Sprite/Sonar-0.tpsheet
 - Assets/Sprite/Sprite1-1-1.tpsheet
 - Assets/Sprite/viseur.tpsheet
+- Assets/Sprite/viseur-0.tpsheet
 textureFileNames:
 - Assets/codeandweb.com/Example/SpriteSheet/sprites.png
 - Assets/Scripts/Sprite.png
@@ -18,8 +19,10 @@ textureFileNames:
 - Assets/Sprite/Sonar-0.png
 - Assets/Sprite/Sprite1-1-1.png
 - Assets/Sprite/viseur.png
+- Assets/Sprite/viseur-0.png
 normalmapFileNames:
 - Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
+- 
 - 
 - 
 - 
