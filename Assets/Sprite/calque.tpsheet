@@ -1,0 +1,14 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:c010c21b885d0f9308790a9dec530cb2:4e642f9e26d7ecad53e2d87860abb3a6:b18dbc1843b4167a18261aaa50106335$
+#
+:format=40000
+:texture=calque.png
+:size=1024x2048
+:pivotpoints=enabled
+
+calque;1;713;750;1334;0.5;0.5; 4;750;0;0;0;0;1334;750;1334; 2;1;2;3;0;1;3
